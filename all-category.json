@@ -1,0 +1,4600 @@
+[
+    {
+      "id": 568,
+      "name": "Canon",
+      "orderNo": 41,
+      "url": "canon-c568",
+      "childCategories": [
+        {
+          "id": 571,
+          "name": "Instant",
+          "orderNo": 2,
+          "url": "canon-instant-c571",
+          "googleCategoryId": null
+        },
+        {
+          "id": 572,
+          "name": "EOS DSLR",
+          "orderNo": 1,
+          "url": "canon-eos-dslr-c572",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1060,
+          "name": "Compact ",
+          "orderNo": 4,
+          "url": "canon-compact-c1060",
+          "googleCategoryId": null
+        },
+        {
+          "id": 570,
+          "name": "Mirrorless",
+          "orderNo": 3,
+          "url": "canon-mirrorless-c570",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 528,
+      "name": "აუდიო სისტემა",
+      "orderNo": 37,
+      "url": "audio-sistema-c528",
+      "childCategories": [
+        {
+          "id": 1054,
+          "name": "Polaroid",
+          "orderNo": 25,
+          "url": "audio-sistema-polaroid-c1054",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1221,
+          "name": "Havit",
+          "orderNo": 5,
+          "url": "audio-sistema-havit-c1221",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1226,
+          "name": "Bowers & Wilkins",
+          "orderNo": 5,
+          "url": "audio-sistema-bowers-wilkins-c1226",
+          "googleCategoryId": null
+        },
+        {
+          "id": 577,
+          "name": "House of Marley",
+          "orderNo": 1,
+          "url": "audio-sistema-house-of-marley-c577",
+          "googleCategoryId": null
+        },
+        {
+          "id": 611,
+          "name": "Lenovo",
+          "orderNo": 2,
+          "url": "audio-sistema-lenovo-c611",
+          "googleCategoryId": null
+        },
+        {
+          "id": 743,
+          "name": "Anker",
+          "orderNo": 6,
+          "url": "audio-sistema-anker-c743",
+          "googleCategoryId": null
+        },
+        {
+          "id": 746,
+          "name": "Razer",
+          "orderNo": 7,
+          "url": "audio-sistema-razer-c746",
+          "googleCategoryId": null
+        },
+        {
+          "id": 747,
+          "name": "HyperX",
+          "orderNo": 8,
+          "url": "audio-sistema-hyperx-c747",
+          "googleCategoryId": null
+        },
+        {
+          "id": 744,
+          "name": "Acer",
+          "orderNo": 4,
+          "url": "audio-sistema-acer-c744",
+          "googleCategoryId": null
+        },
+        {
+          "id": 741,
+          "name": "Asus",
+          "orderNo": 5,
+          "url": "audio-sistema-asus-c741",
+          "googleCategoryId": null
+        },
+        {
+          "id": 770,
+          "name": "Skullcandy",
+          "orderNo": 9,
+          "url": "audio-sistema-skullcandy-c770",
+          "googleCategoryId": null
+        },
+        {
+          "id": 783,
+          "name": "Apple",
+          "orderNo": 10,
+          "url": "audio-sistema-apple-c783",
+          "googleCategoryId": null
+        },
+        {
+          "id": 786,
+          "name": "Xiaomi",
+          "orderNo": 11,
+          "url": "audio-sistema-xiaomi-c786",
+          "googleCategoryId": null
+        },
+        {
+          "id": 790,
+          "name": "Trust",
+          "orderNo": 13,
+          "url": "audio-sistema-trust-c790",
+          "googleCategoryId": null
+        },
+        {
+          "id": 791,
+          "name": "Realme",
+          "orderNo": 14,
+          "url": "audio-sistema-realme-c791",
+          "googleCategoryId": null
+        },
+        {
+          "id": 792,
+          "name": "Beats",
+          "orderNo": 15,
+          "url": "audio-sistema-beats-c792",
+          "googleCategoryId": null
+        },
+        {
+          "id": 794,
+          "name": "Hoco",
+          "orderNo": 16,
+          "url": "audio-sistema-hoco-c794",
+          "googleCategoryId": null
+        },
+        {
+          "id": 795,
+          "name": "Samsung",
+          "orderNo": 17,
+          "url": "audio-sistema-samsung-c795",
+          "googleCategoryId": null
+        },
+        {
+          "id": 796,
+          "name": "Audio-Technica",
+          "orderNo": 18,
+          "url": "audio-sistema-audio-technica-c796",
+          "googleCategoryId": null
+        },
+        {
+          "id": 797,
+          "name": "Jabra",
+          "orderNo": 19,
+          "url": "audio-sistema-jabra-c797",
+          "googleCategoryId": null
+        },
+        {
+          "id": 798,
+          "name": "Bose",
+          "orderNo": 20,
+          "url": "audio-sistema-bose-c798",
+          "googleCategoryId": null
+        },
+        {
+          "id": 799,
+          "name": "Sennheiser",
+          "orderNo": 21,
+          "url": "audio-sistema-sennheiser-c799",
+          "googleCategoryId": null
+        },
+        {
+          "id": 787,
+          "name": "Urbanears",
+          "orderNo": 12,
+          "url": "audio-sistema-urbanears-c787",
+          "googleCategoryId": null
+        },
+        {
+          "id": 793,
+          "name": "HP",
+          "orderNo": 3,
+          "url": "audio-sistema-hp-c793",
+          "googleCategoryId": null
+        },
+        {
+          "id": 811,
+          "name": "JBL",
+          "orderNo": 23,
+          "url": "audio-sistema-jbl-c811",
+          "googleCategoryId": null
+        },
+        {
+          "id": 810,
+          "name": "Marshall",
+          "orderNo": 22,
+          "url": "audio-sistema-marshall-c810",
+          "googleCategoryId": null
+        },
+        {
+          "id": 963,
+          "name": "Baseus",
+          "orderNo": 24,
+          "url": "audio-sistema-baseus-c963",
+          "googleCategoryId": null
+        },
+        {
+          "id": 964,
+          "name": "Sony",
+          "orderNo": 26,
+          "url": "audio-sistema-sony-c964",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1027,
+      "name": "სხვა კონსოლები",
+      "orderNo": 13,
+      "url": "skhva-konsolebi-c1027",
+      "childCategories": [
+        {
+          "id": 456,
+          "name": "Steam Deck",
+          "orderNo": 1,
+          "url": "skhva-konsolebi-steam-deck-c456",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1194,
+          "name": "Asus ROG",
+          "orderNo": 5,
+          "url": "skhva-konsolebi-asus-rog-c1194",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1201,
+          "name": "კონსოლის აქსესუარები",
+          "orderNo": 7,
+          "url": "skhva-konsolebi-konsolis-aqsesuarebi-c1201",
+          "googleCategoryId": null
+        },
+        {
+          "id": 879,
+          "name": "Game Boy",
+          "orderNo": 4,
+          "url": "skhva-konsolebi-game-boy-c879",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1205,
+          "name": "Lenovo",
+          "orderNo": 6,
+          "url": "skhva-konsolebi-lenovo-c1205",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1028,
+          "name": "Oculus",
+          "orderNo": 2,
+          "url": "skhva-konsolebi-oculus-c1028",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1029,
+          "name": "Backbone",
+          "orderNo": 3,
+          "url": "skhva-konsolebi-backbone-c1029",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 776,
+      "name": "გრაფიკული ტაბები",
+      "orderNo": 45,
+      "url": "grafikuli-tabebi-c776",
+      "childCategories": [
+        {
+          "id": 1074,
+          "name": "Xiaomi",
+          "orderNo": 6,
+          "url": "grafikuli-tabebi-xiaomi-c1074",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1075,
+          "name": "Wicue",
+          "orderNo": 7,
+          "url": "grafikuli-tabebi-wicue-c1075",
+          "googleCategoryId": null
+        },
+        {
+          "id": 591,
+          "name": "XP-Pen",
+          "orderNo": 1,
+          "url": "grafikuli-tabebi-xp-pen-c591",
+          "googleCategoryId": null
+        },
+        {
+          "id": 592,
+          "name": "Pen Display",
+          "orderNo": 2,
+          "url": "grafikuli-tabebi-pen-display-c592",
+          "googleCategoryId": null
+        },
+        {
+          "id": 593,
+          "name": "Pen Tablet",
+          "orderNo": 3,
+          "url": "grafikuli-tabebi-pen-tablet-c593",
+          "googleCategoryId": null
+        },
+        {
+          "id": 774,
+          "name": "Huion",
+          "orderNo": 5,
+          "url": "grafikuli-tabebi-huion-c774",
+          "googleCategoryId": null
+        },
+        {
+          "id": 775,
+          "name": "Veikk",
+          "orderNo": 4,
+          "url": "grafikuli-tabebi-veikk-c775",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1145,
+      "name": "კაბელები",
+      "orderNo": 70,
+      "url": "kabelebi-c1145",
+      "childCategories": [
+        {
+          "id": 1147,
+          "name": "Micro USB",
+          "orderNo": 2,
+          "url": "kabelebi-micro-usb-c1147",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1146,
+          "name": "Lightning",
+          "orderNo": 1,
+          "url": "kabelebi-lightning-c1146",
+          "googleCategoryId": null
+        },
+        {
+          "id": 527,
+          "name": "HDMI კაბელები",
+          "orderNo": 5,
+          "url": "kabelebi-hdmi-kabelebi-c527",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1148,
+          "name": "Type-C",
+          "orderNo": 3,
+          "url": "kabelebi-type-c-c1148",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1149,
+          "name": "AUX",
+          "orderNo": 4,
+          "url": "kabelebi-aux-c1149",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1150,
+          "name": "LAN კაბელები",
+          "orderNo": 6,
+          "url": "kabelebi-lan-kabelebi-c1150",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 538,
+      "name": "მობილურის აქსესუარები",
+      "orderNo": 5,
+      "url": "mobiluris-aqsesuarebi-c538",
+      "childCategories": [
+        {
+          "id": 997,
+          "name": "მობილური კამერის ლინზები",
+          "orderNo": 25,
+          "url": "mobiluris-aqsesuarebi-mobiluri-kameris-linzebi-c997",
+          "googleCategoryId": null
+        },
+        {
+          "id": 867,
+          "name": "SIM ადაპტერები",
+          "orderNo": 22,
+          "url": "mobiluris-aqsesuarebi-sim-adapterebi-c867",
+          "googleCategoryId": null
+        },
+        {
+          "id": 870,
+          "name": "სელფის ჯოხები",
+          "orderNo": 18,
+          "url": "mobiluris-aqsesuarebi-selfis-jokhebi-c870",
+          "googleCategoryId": null
+        },
+        {
+          "id": 874,
+          "name": "დამტენი ადაპტერები",
+          "orderNo": 3,
+          "url": "mobiluris-aqsesuarebi-damteni-adapterebi-c874",
+          "googleCategoryId": null
+        },
+        {
+          "id": 912,
+          "name": "გარე დამტენები",
+          "orderNo": 5,
+          "url": "mobiluris-aqsesuarebi-gare-damtenebi-c912",
+          "googleCategoryId": null
+        },
+        {
+          "id": 904,
+          "name": "მანქანის დამტენები",
+          "orderNo": 7,
+          "url": "mobiluris-aqsesuarebi-manqanis-damtenebi-c904",
+          "googleCategoryId": null
+        },
+        {
+          "id": 915,
+          "name": "ეკრანის დამცავები",
+          "orderNo": 1,
+          "url": "mobiluris-aqsesuarebi-ekranis-damcavebi-c915",
+          "googleCategoryId": null
+        },
+        {
+          "id": 959,
+          "name": "კონექტორები",
+          "orderNo": 9,
+          "url": "mobiluris-aqsesuarebi-koneqtorebi-c959",
+          "googleCategoryId": null
+        },
+        {
+          "id": 983,
+          "name": "მობილურის ჩასადებები",
+          "orderNo": 2,
+          "url": "mobiluris-aqsesuarebi-mobiluris-chasadebebi-c983",
+          "googleCategoryId": null
+        },
+        {
+          "id": 992,
+          "name": "ყურსასმენები",
+          "orderNo": 8,
+          "url": "mobiluris-aqsesuarebi-yursasmenebi-c992",
+          "googleCategoryId": null
+        },
+        {
+          "id": 993,
+          "name": "Micro SD მეხსიერების ბარათები",
+          "orderNo": 13,
+          "url": "mobiluris-aqsesuarebi-micro-sd-mekhsierebis-baratebi-c993",
+          "googleCategoryId": null
+        },
+        {
+          "id": 994,
+          "name": "ყურის ბლუთუსები",
+          "orderNo": 17,
+          "url": "mobiluris-aqsesuarebi-yuris-blutusebi-c994",
+          "googleCategoryId": null
+        },
+        {
+          "id": 995,
+          "name": "OTG ფლეშ მეხსიერება",
+          "orderNo": 20,
+          "url": "mobiluris-aqsesuarebi-otg-flesh-mekhsiereba-c995",
+          "googleCategoryId": null
+        },
+        {
+          "id": 998,
+          "name": "კაბელების ორგანაიზერი",
+          "orderNo": 26,
+          "url": "mobiluris-aqsesuarebi-kabelebis-organaizeri-c998",
+          "googleCategoryId": null
+        },
+        {
+          "id": 515,
+          "name": "მანქანის სამაგრები",
+          "orderNo": 11,
+          "url": "mobiluris-aqsesuarebi-manqanis-samagrebi-c515",
+          "googleCategoryId": null
+        },
+        {
+          "id": 516,
+          "name": "მობილურის სამაგრები",
+          "orderNo": 24,
+          "url": "mobiluris-aqsesuarebi-mobiluris-samagrebi-c516",
+          "googleCategoryId": null
+        },
+        {
+          "id": 530,
+          "name": "უსადენო დამტენები",
+          "orderNo": 4,
+          "url": "mobiluris-aqsesuarebi-usadeno-damtenebi-c530",
+          "googleCategoryId": null
+        },
+        {
+          "id": 615,
+          "name": "კაბელები",
+          "orderNo": 10,
+          "url": "mobiluris-aqsesuarebi-kabelebi-c615",
+          "googleCategoryId": null
+        },
+        {
+          "id": 607,
+          "name": "GPS ტრეკერის აქსესუარები",
+          "orderNo": 15,
+          "url": "mobiluris-aqsesuarebi-gps-trekeris-aqsesuarebi-c607",
+          "googleCategoryId": null
+        },
+        {
+          "id": 608,
+          "name": "GPS ტრეკერები",
+          "orderNo": 14,
+          "url": "mobiluris-aqsesuarebi-gps-trekerebi-c608",
+          "googleCategoryId": null
+        },
+        {
+          "id": 612,
+          "name": "სათამაშო ტრიგერები",
+          "orderNo": 12,
+          "url": "mobiluris-aqsesuarebi-satamasho-trigerebi-c612",
+          "googleCategoryId": null
+        },
+        {
+          "id": 613,
+          "name": "მობილურის ბეჭდები",
+          "orderNo": 19,
+          "url": "mobiluris-aqsesuarebi-mobiluris-bechdebi-c613",
+          "googleCategoryId": null
+        },
+        {
+          "id": 598,
+          "name": "კამერის დამცავები",
+          "orderNo": 16,
+          "url": "mobiluris-aqsesuarebi-kameris-damcavebi-c598",
+          "googleCategoryId": null
+        },
+        {
+          "id": 767,
+          "name": "USB ჰაბები",
+          "orderNo": 23,
+          "url": "mobiluris-aqsesuarebi-usb-habebi-c767",
+          "googleCategoryId": null
+        },
+        {
+          "id": 820,
+          "name": "მობილურის სტაბილიზატორები",
+          "orderNo": 6,
+          "url": "mobiluris-aqsesuarebi-mobiluris-stabilizatorebi-c820",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 488,
+      "name": "მონიტორინგი",
+      "orderNo": 55,
+      "url": "monitoringi-c488",
+      "childCategories": [
+        {
+          "id": 1199,
+          "name": "ვიდეორეგისტრატორის აქსესუარები",
+          "orderNo": 4,
+          "url": "monitoringi-videoregistratoris-aqsesuarebi-c1199",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1115,
+          "name": "სმარტ ჰაბები",
+          "orderNo": 8,
+          "url": "monitoringi-smart-habebi-c1115",
+          "googleCategoryId": null
+        },
+        {
+          "id": 725,
+          "name": "IP კამერები",
+          "orderNo": 3,
+          "url": "monitoringi-ip-kamerebi-c725",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1111,
+          "name": "Doorbell",
+          "orderNo": 2,
+          "url": "monitoringi-doorbell-c1111",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1112,
+          "name": "მოძრაობის სენსორები ",
+          "orderNo": 5,
+          "url": "monitoringi-modzraobis-sensorebi-c1112",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1113,
+          "name": "ტემპერატურის ინდიკატორები",
+          "orderNo": 6,
+          "url": "monitoringi-temperaturis-indikatorebi-c1113",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1114,
+          "name": "განათების სენსორები",
+          "orderNo": 7,
+          "url": "monitoringi-ganatebis-sensorebi-c1114",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1116,
+          "name": "სმარტ ჩამრთველები",
+          "orderNo": 9,
+          "url": "monitoringi-smart-chamrtvelebi-c1116",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1117,
+          "name": "კარის ჭკვიანი საკეტი",
+          "orderNo": 10,
+          "url": "monitoringi-karis-chkviani-saketi-c1117",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1118,
+          "name": "GPS ტრეკერები",
+          "orderNo": 11,
+          "url": "monitoringi-gps-trekerebi-c1118",
+          "googleCategoryId": null
+        },
+        {
+          "id": 971,
+          "name": "ვიდეო რეგისტრატორები",
+          "orderNo": 1,
+          "url": "monitoringi-video-registratorebi-c971",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1088,
+      "name": "სმარტ კლავიატურა და კალამი",
+      "orderNo": 50,
+      "url": "smart-klaviatura-da-kalami-c1088",
+      "childCategories": [
+        {
+          "id": 1090,
+          "name": "Apple კალამი",
+          "orderNo": 3,
+          "url": "smart-klaviatura-da-kalami-apple-kalami-c1090",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1094,
+          "name": "Baseus კალამი",
+          "orderNo": 7,
+          "url": "smart-klaviatura-da-kalami-baseus-kalami-c1094",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1195,
+          "name": "Xiaomi კლავიატურა",
+          "orderNo": 8,
+          "url": "smart-klaviatura-da-kalami-xiaomi-klaviatura-c1195",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1196,
+          "name": "Uniq კალამი",
+          "orderNo": 1,
+          "url": "smart-klaviatura-da-kalami-uniq-kalami-c1196",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1092,
+          "name": "Microsoft კალამი",
+          "orderNo": 5,
+          "url": "smart-klaviatura-da-kalami-microsoft-kalami-c1092",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1089,
+          "name": "Apple კლავიატურა",
+          "orderNo": 2,
+          "url": "smart-klaviatura-da-kalami-apple-klaviatura-c1089",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1091,
+          "name": "Microsoft კლავიატურა",
+          "orderNo": 4,
+          "url": "smart-klaviatura-da-kalami-microsoft-klaviatura-c1091",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1093,
+          "name": "Baseus კლავიატურა",
+          "orderNo": 6,
+          "url": "smart-klaviatura-da-kalami-baseus-klaviatura-c1093",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1140,
+      "name": "Gaming მონიტორები",
+      "orderNo": 68,
+      "url": "gaming-monitorebi-c1140",
+      "childCategories": [
+        {
+          "id": 1143,
+          "name": "BenQ",
+          "orderNo": 3,
+          "url": "gaming-monitorebi-benq-c1143",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1225,
+          "name": "MSI",
+          "orderNo": 0,
+          "url": "gaming-monitorebi-msi-c1225",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1142,
+          "name": "Acer Nitro",
+          "orderNo": 2,
+          "url": "gaming-monitorebi-acer-nitro-c1142",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1144,
+          "name": "Lenovo Legion",
+          "orderNo": 4,
+          "url": "gaming-monitorebi-lenovo-legion-c1144",
+          "googleCategoryId": null
+        },
+        {
+          "id": 722,
+          "name": "HP",
+          "orderNo": 6,
+          "url": "gaming-monitorebi-hp-c722",
+          "googleCategoryId": null
+        },
+        {
+          "id": 553,
+          "name": "Xiaomi",
+          "orderNo": 7,
+          "url": "gaming-monitorebi-xiaomi-c553",
+          "googleCategoryId": null
+        },
+        {
+          "id": 830,
+          "name": "Dell",
+          "orderNo": 5,
+          "url": "gaming-monitorebi-dell-c830",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1141,
+          "name": "Samsung Odyssey",
+          "orderNo": 1,
+          "url": "gaming-monitorebi-samsung-odyssey-c1141",
+          "googleCategoryId": null
+        },
+        {
+          "id": 805,
+          "name": "Asus",
+          "orderNo": 8,
+          "url": "gaming-monitorebi-asus-c805",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 539,
+      "name": "პლანშეტის აქსესუარები",
+      "orderNo": 46,
+      "url": "planshetis-aqsesuarebi-c539",
+      "childCategories": [
+        {
+          "id": 1080,
+          "name": "Micro SD მეხსიერების ბარათები",
+          "orderNo": 7,
+          "url": "planshetis-aqsesuarebi-micro-sd-mekhsierebis-baratebi-c1080",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1082,
+          "name": "პლანშეტის სადგამი",
+          "orderNo": 11,
+          "url": "planshetis-aqsesuarebi-planshetis-sadgami-c1082",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1078,
+          "name": "კონექტორები",
+          "orderNo": 5,
+          "url": "planshetis-aqsesuarebi-koneqtorebi-c1078",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1095,
+          "name": "პლანშეტის კლავიატურები",
+          "orderNo": 12,
+          "url": "planshetis-aqsesuarebi-planshetis-klaviaturebi-c1095",
+          "googleCategoryId": null
+        },
+        {
+          "id": 884,
+          "name": "სმარტ კალმის აქსესუარები",
+          "orderNo": 10,
+          "url": "planshetis-aqsesuarebi-smart-kalmis-aqsesuarebi-c884",
+          "googleCategoryId": null
+        },
+        {
+          "id": 880,
+          "name": "პლანშეტის ქეისები",
+          "orderNo": 1,
+          "url": "planshetis-aqsesuarebi-planshetis-qeisebi-c880",
+          "googleCategoryId": null
+        },
+        {
+          "id": 914,
+          "name": "USB კაბელები",
+          "orderNo": 3,
+          "url": "planshetis-aqsesuarebi-usb-kabelebi-c914",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1077,
+          "name": "დამტენი ადაპტერები",
+          "orderNo": 4,
+          "url": "planshetis-aqsesuarebi-damteni-adapterebi-c1077",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1079,
+          "name": "OTG ფლეშ მეხსიერება",
+          "orderNo": 6,
+          "url": "planshetis-aqsesuarebi-otg-flesh-mekhsiereba-c1079",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1081,
+          "name": "გარე დამტენები",
+          "orderNo": 8,
+          "url": "planshetis-aqsesuarebi-gare-damtenebi-c1081",
+          "googleCategoryId": null
+        },
+        {
+          "id": 569,
+          "name": "ეკრანის დამცავები",
+          "orderNo": 2,
+          "url": "planshetis-aqsesuarebi-ekranis-damcavebi-c569",
+          "googleCategoryId": null
+        },
+        {
+          "id": 849,
+          "name": "სმარტ კალამი",
+          "orderNo": 9,
+          "url": "planshetis-aqsesuarebi-smart-kalami-c849",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 519,
+      "name": "მეხსიერების მატარებლები",
+      "orderNo": 48,
+      "url": "mekhsierebis-matareblebi-c519",
+      "childCategories": [
+        {
+          "id": 1083,
+          "name": "პორტატილი HDD",
+          "orderNo": 2,
+          "url": "mekhsierebis-matareblebi-portatili-hdd-c1083",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1085,
+          "name": "ფლეშ მეხსიერებები",
+          "orderNo": 4,
+          "url": "mekhsierebis-matareblebi-flesh-mekhsierebebi-c1085",
+          "googleCategoryId": null
+        },
+        {
+          "id": 876,
+          "name": "პორტატული SSD",
+          "orderNo": 1,
+          "url": "mekhsierebis-matareblebi-portatuli-ssd-c876",
+          "googleCategoryId": null
+        },
+        {
+          "id": 727,
+          "name": "მეხსიერების ბარათები",
+          "orderNo": 5,
+          "url": "mekhsierebis-matareblebi-mekhsierebis-baratebi-c727",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1084,
+          "name": "შიდა SSD",
+          "orderNo": 3,
+          "url": "mekhsierebis-matareblebi-shida-ssd-c1084",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 490,
+      "name": "თავის მოვლა",
+      "orderNo": 47,
+      "url": "tavis-movla-c490",
+      "childCategories": [
+        {
+          "id": 1211,
+          "name": "წვერსაპარსის თავაკები",
+          "orderNo": 17,
+          "url": "tavis-movla-tsversaparsis-tavakebi-c1211",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1213,
+          "name": "კბილის ჯაგრისის თავები",
+          "orderNo": 18,
+          "url": "tavis-movla-kbilis-jagrisis-tavebi-c1213",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1214,
+          "name": "ცხვირის ტრიმერი",
+          "orderNo": 19,
+          "url": "tavis-movla-ckhviris-trimeri-c1214",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1197,
+          "name": "ფრჩხილების მოვლა",
+          "orderNo": 15,
+          "url": "tavis-movla-frchkhilebis-movla-c1197",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1202,
+          "name": "კანის მოვლის საშუალებები",
+          "orderNo": 16,
+          "url": "tavis-movla-kanis-movlis-sashualebebi-c1202",
+          "googleCategoryId": null
+        },
+        {
+          "id": 489,
+          "name": "წვერსაპარსი",
+          "orderNo": 5,
+          "url": "tavis-movla-tsversaparsi-c489",
+          "googleCategoryId": null
+        },
+        {
+          "id": 475,
+          "name": "ტრიმერები",
+          "orderNo": 6,
+          "url": "tavis-movla-trimerebi-c475",
+          "googleCategoryId": null
+        },
+        {
+          "id": 583,
+          "name": "ტანსაცმლის უთო",
+          "orderNo": 8,
+          "url": "tavis-movla-tansacmlis-uto-c583",
+          "googleCategoryId": null
+        },
+        {
+          "id": 549,
+          "name": "თმის უთო",
+          "orderNo": 1,
+          "url": "tavis-movla-tmis-uto-c549",
+          "googleCategoryId": null
+        },
+        {
+          "id": 605,
+          "name": "სარბენი ბილიკები",
+          "orderNo": 11,
+          "url": "tavis-movla-sarbeni-bilikebi-c605",
+          "googleCategoryId": null
+        },
+        {
+          "id": 599,
+          "name": "ლაქების მოსაშორებელი",
+          "orderNo": 9,
+          "url": "tavis-movla-laqebis-mosashorebeli-c599",
+          "googleCategoryId": null
+        },
+        {
+          "id": 629,
+          "name": "კბილის ჯაგრისი",
+          "orderNo": 3,
+          "url": "tavis-movla-kbilis-jagrisi-c629",
+          "googleCategoryId": null
+        },
+        {
+          "id": 630,
+          "name": "თმის ფენი",
+          "orderNo": 2,
+          "url": "tavis-movla-tmis-feni-c630",
+          "googleCategoryId": null
+        },
+        {
+          "id": 631,
+          "name": "სასწორი",
+          "orderNo": 12,
+          "url": "tavis-movla-sastsori-c631",
+          "googleCategoryId": null
+        },
+        {
+          "id": 878,
+          "name": "კბილის პასტის საწური",
+          "orderNo": 4,
+          "url": "tavis-movla-kbilis-pastis-satsuri-c878",
+          "googleCategoryId": null
+        },
+        {
+          "id": 854,
+          "name": "ეპილატორები",
+          "orderNo": 7,
+          "url": "tavis-movla-epilatorebi-c854",
+          "googleCategoryId": null
+        },
+        {
+          "id": 885,
+          "name": "თხევადი ხელის საპონი",
+          "orderNo": 13,
+          "url": "tavis-movla-tkhevadi-khelis-saponi-c885",
+          "googleCategoryId": null
+        },
+        {
+          "id": 888,
+          "name": "საპნის დისპენსერი",
+          "orderNo": 14,
+          "url": "tavis-movla-sapnis-dispenseri-c888",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 500,
+      "name": "სახლის მოვლა",
+      "orderNo": 52,
+      "url": "sakhlis-movla-c500",
+      "childCategories": [
+        {
+          "id": 1096,
+          "name": "მტვერსასრუტის აქსესუარები",
+          "orderNo": 1,
+          "url": "sakhlis-movla-mtversasrutis-aqsesuarebi-c1096",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1101,
+          "name": "მინის საწმენდი რობოტები",
+          "orderNo": 7,
+          "url": "sakhlis-movla-minis-satsmendi-robotebi-c1101",
+          "googleCategoryId": null
+        },
+        {
+          "id": 480,
+          "name": "ჰაერის გამწმენდის აქსესუარები",
+          "orderNo": 8,
+          "url": "sakhlis-movla-haeris-gamtsmendis-aqsesuarebi-c480",
+          "googleCategoryId": null
+        },
+        {
+          "id": 496,
+          "name": "ჰაერის გამწმენდი",
+          "orderNo": 5,
+          "url": "sakhlis-movla-haeris-gamtsmendi-c496",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1097,
+          "name": "პორტატული მტვერსასრუტები",
+          "orderNo": 2,
+          "url": "sakhlis-movla-portatuli-mtversasrutebi-c1097",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1098,
+          "name": "ხელის მტვერსასრუტები",
+          "orderNo": 3,
+          "url": "sakhlis-movla-khelis-mtversasrutebi-c1098",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1099,
+          "name": "რობოტი მტვერსასრუტები",
+          "orderNo": 4,
+          "url": "sakhlis-movla-roboti-mtversasrutebi-c1099",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1100,
+          "name": "ჰაერის დამატენიანებელი",
+          "orderNo": 6,
+          "url": "sakhlis-movla-haeris-damatenianebeli-c1100",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 501,
+      "name": "მისაღები",
+      "orderNo": 53,
+      "url": "misaghebi-c501",
+      "childCategories": [
+        {
+          "id": 1104,
+          "name": "მედია პლეერები ",
+          "orderNo": 3,
+          "url": "misaghebi-media-pleerebi-c1104",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1103,
+          "name": "ტელევიზორები",
+          "orderNo": 2,
+          "url": "misaghebi-televizorebi-c1103",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1106,
+          "name": "WI-Fi როუტერები",
+          "orderNo": 5,
+          "url": "misaghebi-wi-fi-routerebi-c1106",
+          "googleCategoryId": null
+        },
+        {
+          "id": 781,
+          "name": "განათება",
+          "orderNo": 7,
+          "url": "misaghebi-ganateba-c781",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1102,
+          "name": "ჰაერის გამწმენდი",
+          "orderNo": 1,
+          "url": "misaghebi-haeris-gamtsmendi-c1102",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1105,
+          "name": "სმარტ ასისტენტები ",
+          "orderNo": 4,
+          "url": "misaghebi-smart-asistentebi-c1105",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1107,
+          "name": "პროექტორები ",
+          "orderNo": 6,
+          "url": "misaghebi-proeqtorebi-c1107",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 481,
+      "name": "მანქანის აქსესუარები",
+      "orderNo": 56,
+      "url": "manqanis-aqsesuarebi-c481",
+      "childCategories": [
+        {
+          "id": 1121,
+          "name": "მანქანის ურნა",
+          "orderNo": 4,
+          "url": "manqanis-aqsesuarebi-manqanis-urna-c1121",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1125,
+          "name": "მანქანის დამტენები",
+          "orderNo": 7,
+          "url": "manqanis-aqsesuarebi-manqanis-damtenebi-c1125",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1126,
+          "name": "მანქანის აქსესუარები",
+          "orderNo": 8,
+          "url": "manqanis-aqsesuarebi-manqanis-aqsesuarebi-c1126",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1124,
+          "name": "მანქანის არომატიზატორები",
+          "orderNo": 6,
+          "url": "manqanis-aqsesuarebi-manqanis-aromatizatorebi-c1124",
+          "googleCategoryId": null
+        },
+        {
+          "id": 581,
+          "name": "სახრახნისები",
+          "orderNo": 1,
+          "url": "manqanis-aqsesuarebi-sakhrakhnisebi-c581",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1120,
+          "name": "სანომრე ბარათი",
+          "orderNo": 3,
+          "url": "manqanis-aqsesuarebi-sanomre-barati-c1120",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1122,
+          "name": "მანქანის სარეცხი აქსესუარები",
+          "orderNo": 5,
+          "url": "manqanis-aqsesuarebi-manqanis-sareckhi-aqsesuarebi-c1122",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1119,
+          "name": "მანქანის სამაგრები",
+          "orderNo": 2,
+          "url": "manqanis-aqsesuarebi-manqanis-samagrebi-c1119",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 780,
+      "name": "რაცია",
+      "orderNo": 62,
+      "url": "racia-c780",
+      "childCategories": [
+        {
+          "id": 1133,
+          "name": "რაცია ",
+          "orderNo": 1,
+          "url": "racia-racia-c1133",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 873,
+      "name": "სმარტ საათები",
+      "orderNo": 3,
+      "url": "smart-saatebi-c873",
+      "childCategories": [
+        {
+          "id": 1216,
+          "name": "Nothing Watch",
+          "orderNo": 18,
+          "url": "smart-saatebi-nothing-watch-c1216",
+          "googleCategoryId": null
+        },
+        {
+          "id": 999,
+          "name": "Google Watch",
+          "orderNo": 4,
+          "url": "smart-saatebi-google-watch-c999",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1000,
+          "name": "Amazfit Watch",
+          "orderNo": 5,
+          "url": "smart-saatebi-amazfit-watch-c1000",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1001,
+          "name": "Canyon Watch",
+          "orderNo": 6,
+          "url": "smart-saatebi-canyon-watch-c1001",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1002,
+          "name": "OnePlus Watch",
+          "orderNo": 7,
+          "url": "smart-saatebi-oneplus-watch-c1002",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1003,
+          "name": "Realme Watch",
+          "orderNo": 8,
+          "url": "smart-saatebi-realme-watch-c1003",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1004,
+          "name": "Honor Watch",
+          "orderNo": 9,
+          "url": "smart-saatebi-honor-watch-c1004",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1005,
+          "name": "Lenovo Watch",
+          "orderNo": 10,
+          "url": "smart-saatebi-lenovo-watch-c1005",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1006,
+          "name": "Huawei Watch",
+          "orderNo": 11,
+          "url": "smart-saatebi-huawei-watch-c1006",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1007,
+          "name": "ZTE Watch",
+          "orderNo": 12,
+          "url": "smart-saatebi-zte-watch-c1007",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1008,
+          "name": "Porodo Watch",
+          "orderNo": 13,
+          "url": "smart-saatebi-porodo-watch-c1008",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1009,
+          "name": "Garmin Watch",
+          "orderNo": 14,
+          "url": "smart-saatebi-garmin-watch-c1009",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1010,
+          "name": "Haylou",
+          "orderNo": 15,
+          "url": "smart-saatebi-haylou-c1010",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1011,
+          "name": "Kieslect",
+          "orderNo": 16,
+          "url": "smart-saatebi-kieslect-c1011",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1012,
+          "name": "Omthing",
+          "orderNo": 17,
+          "url": "smart-saatebi-omthing-c1012",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1015,
+          "name": "სმარტ საათის აქსესუარები",
+          "orderNo": 19,
+          "url": "smart-saatebi-smart-saatis-aqsesuarebi-c1015",
+          "googleCategoryId": null
+        },
+        {
+          "id": 620,
+          "name": "Xiaomi Watch",
+          "orderNo": 3,
+          "url": "smart-saatebi-xiaomi-watch-c620",
+          "googleCategoryId": null
+        },
+        {
+          "id": 621,
+          "name": "Galaxy Watch",
+          "orderNo": 2,
+          "url": "smart-saatebi-galaxy-watch-c621",
+          "googleCategoryId": null
+        },
+        {
+          "id": 622,
+          "name": "Apple Watch",
+          "orderNo": 1,
+          "url": "smart-saatebi-apple-watch-c622",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 877,
+      "name": "პლანშეტები",
+      "orderNo": 44,
+      "url": "planshetebi-c877",
+      "childCategories": [
+        {
+          "id": 1187,
+          "name": "OnePlus",
+          "orderNo": 12,
+          "url": "planshetebi-oneplus-c1187",
+          "googleCategoryId": null
+        },
+        {
+          "id": 952,
+          "name": "Microsoft",
+          "orderNo": 1,
+          "url": "planshetebi-microsoft-c952",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1067,
+          "name": "Amazon",
+          "orderNo": 6,
+          "url": "planshetebi-amazon-c1067",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1066,
+          "name": "Lenovo",
+          "orderNo": 5,
+          "url": "planshetebi-lenovo-c1066",
+          "googleCategoryId": null
+        },
+        {
+          "id": 969,
+          "name": "Apple",
+          "orderNo": 2,
+          "url": "planshetebi-apple-c969",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1064,
+          "name": "Samsung",
+          "orderNo": 3,
+          "url": "planshetebi-samsung-c1064",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1065,
+          "name": "Xiaomi",
+          "orderNo": 4,
+          "url": "planshetebi-xiaomi-c1065",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1068,
+          "name": "Realme",
+          "orderNo": 7,
+          "url": "planshetebi-realme-c1068",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1070,
+          "name": "Alcatel",
+          "orderNo": 8,
+          "url": "planshetebi-alcatel-c1070",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1071,
+          "name": "Asus",
+          "orderNo": 9,
+          "url": "planshetebi-asus-c1071",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1072,
+          "name": "Honor",
+          "orderNo": 10,
+          "url": "planshetebi-honor-c1072",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1073,
+          "name": "Huawei",
+          "orderNo": 11,
+          "url": "planshetebi-huawei-c1073",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1188,
+      "name": "სამგზავრო ჩემოდანი",
+      "orderNo": 79,
+      "url": "samgzavro-chemodani-c1188",
+      "childCategories": [
+        {
+          "id": 1189,
+          "name": "სამგზავრო ჩანთები",
+          "orderNo": 1,
+          "url": "samgzavro-chemodani-samgzavro-chantebi-c1189",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 533,
+      "name": "ყურსასმენები",
+      "orderNo": 4,
+      "url": "yursasmenebi-c533",
+      "childCategories": [
+        {
+          "id": 1208,
+          "name": "ყურსასმენის აქსესუარები",
+          "orderNo": 9,
+          "url": "yursasmenebi-yursasmenis-aqsesuarebi-c1208",
+          "googleCategoryId": null
+        },
+        {
+          "id": 666,
+          "name": "ყურსასმენები - Gaming",
+          "orderNo": 5,
+          "url": "yursasmenebi-yursasmenebi-gaming-c666",
+          "googleCategoryId": null
+        },
+        {
+          "id": 457,
+          "name": "ქოლცენტრის ყურსასმენები",
+          "orderNo": 8,
+          "url": "yursasmenebi-qolcentris-yursasmenebi-c457",
+          "googleCategoryId": null
+        },
+        {
+          "id": 905,
+          "name": "ყურსასმენები - Earphones",
+          "orderNo": 4,
+          "url": "yursasmenebi-yursasmenebi-earphones-c905",
+          "googleCategoryId": null
+        },
+        {
+          "id": 908,
+          "name": "ყურსასმენები - Headphones",
+          "orderNo": 1,
+          "url": "yursasmenebi-yursasmenebi-headphones-c908",
+          "googleCategoryId": null
+        },
+        {
+          "id": 906,
+          "name": "ყურსასმენები - Wireless",
+          "orderNo": 3,
+          "url": "yursasmenebi-yursasmenebi-wireless-c906",
+          "googleCategoryId": null
+        },
+        {
+          "id": 903,
+          "name": "ყურის ბლუთუსები",
+          "orderNo": 6,
+          "url": "yursasmenebi-yuris-blutusebi-c903",
+          "googleCategoryId": null
+        },
+        {
+          "id": 996,
+          "name": "საბავშვო ყურსასმენები",
+          "orderNo": 7,
+          "url": "yursasmenebi-sabavshvo-yursasmenebi-c996",
+          "googleCategoryId": null
+        },
+        {
+          "id": 846,
+          "name": "ყურსასმენები - Buds ",
+          "orderNo": 2,
+          "url": "yursasmenebi-yursasmenebi-buds-c846",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 503,
+      "name": "მონიტორები",
+      "orderNo": 31,
+      "url": "monitorebi-c503",
+      "childCategories": [
+        {
+          "id": 1217,
+          "name": "Samsung",
+          "orderNo": 5,
+          "url": "monitorebi-samsung-c1217",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1222,
+          "name": "MSI",
+          "orderNo": 4,
+          "url": "monitorebi-msi-c1222",
+          "googleCategoryId": null
+        },
+        {
+          "id": 643,
+          "name": "Dell",
+          "orderNo": 3,
+          "url": "monitorebi-dell-c643",
+          "googleCategoryId": null
+        },
+        {
+          "id": 647,
+          "name": "Xiaomi",
+          "orderNo": 2,
+          "url": "monitorebi-xiaomi-c647",
+          "googleCategoryId": null
+        },
+        {
+          "id": 816,
+          "name": "Philips",
+          "orderNo": 4,
+          "url": "monitorebi-philips-c816",
+          "googleCategoryId": null
+        },
+        {
+          "id": 817,
+          "name": "AOC",
+          "orderNo": 5,
+          "url": "monitorebi-aoc-c817",
+          "googleCategoryId": null
+        },
+        {
+          "id": 825,
+          "name": "Acer",
+          "orderNo": 6,
+          "url": "monitorebi-acer-c825",
+          "googleCategoryId": null
+        },
+        {
+          "id": 828,
+          "name": "Asus",
+          "orderNo": 7,
+          "url": "monitorebi-asus-c828",
+          "googleCategoryId": null
+        },
+        {
+          "id": 829,
+          "name": "Lenovo",
+          "orderNo": 8,
+          "url": "monitorebi-lenovo-c829",
+          "googleCategoryId": null
+        },
+        {
+          "id": 831,
+          "name": "HP",
+          "orderNo": 9,
+          "url": "monitorebi-hp-c831",
+          "googleCategoryId": null
+        },
+        {
+          "id": 550,
+          "name": "BenQ",
+          "orderNo": 1,
+          "url": "monitorebi-benq-c550",
+          "googleCategoryId": null
+        },
+        {
+          "id": 845,
+          "name": "All-in-One",
+          "orderNo": 10,
+          "url": "monitorebi-all-in-one-c845",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1050,
+          "name": "2E",
+          "orderNo": 11,
+          "url": "monitorebi-2e-c1050",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 706,
+      "name": "All-in-One",
+      "orderNo": 69,
+      "url": "all-in-one-c706",
+      "childCategories": [
+        {
+          "id": 1218,
+          "name": "Asus",
+          "orderNo": 5,
+          "url": "all-in-one-asus-c1218",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1212,
+          "name": "Lenovo",
+          "orderNo": 4,
+          "url": "all-in-one-lenovo-c1212",
+          "googleCategoryId": null
+        },
+        {
+          "id": 645,
+          "name": "Apple iMac",
+          "orderNo": 1,
+          "url": "all-in-one-apple-imac-c645",
+          "googleCategoryId": null
+        },
+        {
+          "id": 800,
+          "name": "Dell",
+          "orderNo": 3,
+          "url": "all-in-one-dell-c800",
+          "googleCategoryId": null
+        },
+        {
+          "id": 804,
+          "name": "HP",
+          "orderNo": 2,
+          "url": "all-in-one-hp-c804",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 865,
+      "name": "დრონები და აქსესუარები",
+      "orderNo": 22,
+      "url": "dronebi-da-aqsesuarebi-c865",
+      "childCategories": [
+        {
+          "id": 866,
+          "name": "დრონის აქსესუარები",
+          "orderNo": 2,
+          "url": "dronebi-da-aqsesuarebi-dronis-aqsesuarebi-c866",
+          "googleCategoryId": null
+        },
+        {
+          "id": 735,
+          "name": "DJI დრონები",
+          "orderNo": 1,
+          "url": "dronebi-da-aqsesuarebi-dji-dronebi-c735",
+          "googleCategoryId": null
+        },
+        {
+          "id": 818,
+          "name": "FPV Goggles",
+          "orderNo": 4,
+          "url": "dronebi-da-aqsesuarebi-fpv-goggles-c818",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1043,
+          "name": "დრონები",
+          "orderNo": 3,
+          "url": "dronebi-da-aqsesuarebi-dronebi-c1043",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 606,
+      "name": "ფოტო პრინტერის აქსესუარები",
+      "orderNo": 24,
+      "url": "foto-printeris-aqsesuarebi-c606",
+      "childCategories": [
+        {
+          "id": 545,
+          "name": "ფოტო პრინტერის ჩანთები",
+          "orderNo": 3,
+          "url": "foto-printeris-aqsesuarebi-foto-printeris-chantebi-c545",
+          "googleCategoryId": null
+        },
+        {
+          "id": 544,
+          "name": "ფოტო პრინტერის ალბომები",
+          "orderNo": 2,
+          "url": "foto-printeris-aqsesuarebi-foto-printeris-albomebi-c544",
+          "googleCategoryId": null
+        },
+        {
+          "id": 542,
+          "name": "ფოტო პრინტერის ლინზები",
+          "orderNo": 5,
+          "url": "foto-printeris-aqsesuarebi-foto-printeris-linzebi-c542",
+          "googleCategoryId": null
+        },
+        {
+          "id": 543,
+          "name": "ფოტო პრინტერის ფურცლები",
+          "orderNo": 1,
+          "url": "foto-printeris-aqsesuarebi-foto-printeris-furclebi-c543",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1046,
+          "name": "ფოტო პრინტერის strap-ები",
+          "orderNo": 4,
+          "url": "foto-printeris-aqsesuarebi-foto-printeris-strap-ebi-c1046",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 855,
+      "name": "მობილური ტელეფონები",
+      "orderNo": 2,
+      "url": "mobiluri-telefonebi-c855",
+      "childCategories": [
+        {
+          "id": 625,
+          "name": "Poco",
+          "orderNo": 4,
+          "url": "mobiluri-telefonebi-poco-c625",
+          "googleCategoryId": null
+        },
+        {
+          "id": 724,
+          "name": "Apple",
+          "orderNo": 1,
+          "url": "mobiluri-telefonebi-apple-c724",
+          "googleCategoryId": null
+        },
+        {
+          "id": 948,
+          "name": "Motorola",
+          "orderNo": 11,
+          "url": "mobiluri-telefonebi-motorola-c948",
+          "googleCategoryId": null
+        },
+        {
+          "id": 951,
+          "name": "Blackberry ",
+          "orderNo": 23,
+          "url": "mobiluri-telefonebi-blackberry-c951",
+          "googleCategoryId": null
+        },
+        {
+          "id": 988,
+          "name": "Lenovo",
+          "orderNo": 20,
+          "url": "mobiluri-telefonebi-lenovo-c988",
+          "googleCategoryId": null
+        },
+        {
+          "id": 624,
+          "name": "Asus",
+          "orderNo": 13,
+          "url": "mobiluri-telefonebi-asus-c624",
+          "googleCategoryId": null
+        },
+        {
+          "id": 801,
+          "name": "CAT",
+          "orderNo": 12,
+          "url": "mobiluri-telefonebi-cat-c801",
+          "googleCategoryId": null
+        },
+        {
+          "id": 814,
+          "name": "Samsung",
+          "orderNo": 2,
+          "url": "mobiluri-telefonebi-samsung-c814",
+          "googleCategoryId": null
+        },
+        {
+          "id": 806,
+          "name": "Nokia",
+          "orderNo": 10,
+          "url": "mobiluri-telefonebi-nokia-c806",
+          "googleCategoryId": null
+        },
+        {
+          "id": 807,
+          "name": "ZTE",
+          "orderNo": 14,
+          "url": "mobiluri-telefonebi-zte-c807",
+          "googleCategoryId": null
+        },
+        {
+          "id": 808,
+          "name": "Realme",
+          "orderNo": 9,
+          "url": "mobiluri-telefonebi-realme-c808",
+          "googleCategoryId": null
+        },
+        {
+          "id": 815,
+          "name": "Xiaomi",
+          "orderNo": 3,
+          "url": "mobiluri-telefonebi-xiaomi-c815",
+          "googleCategoryId": null
+        },
+        {
+          "id": 551,
+          "name": "Vivo",
+          "orderNo": 5,
+          "url": "mobiluri-telefonebi-vivo-c551",
+          "googleCategoryId": null
+        },
+        {
+          "id": 554,
+          "name": "Nothing",
+          "orderNo": 7,
+          "url": "mobiluri-telefonebi-nothing-c554",
+          "googleCategoryId": null
+        },
+        {
+          "id": 809,
+          "name": "Oneplus",
+          "orderNo": 8,
+          "url": "mobiluri-telefonebi-oneplus-c809",
+          "googleCategoryId": null
+        },
+        {
+          "id": 803,
+          "name": "FLY",
+          "orderNo": 16,
+          "url": "mobiluri-telefonebi-fly-c803",
+          "googleCategoryId": null
+        },
+        {
+          "id": 968,
+          "name": "Google",
+          "orderNo": 6,
+          "url": "mobiluri-telefonebi-google-c968",
+          "googleCategoryId": null
+        },
+        {
+          "id": 966,
+          "name": "Honor",
+          "orderNo": 18,
+          "url": "mobiluri-telefonebi-honor-c966",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 970,
+      "name": "სმარტ საათის აქსესუარები",
+      "orderNo": 6,
+      "url": "smart-saatis-aqsesuarebi-c970",
+      "childCategories": [
+        {
+          "id": 1014,
+          "name": "სმარტ საათის სამაჯურები",
+          "orderNo": 1,
+          "url": "smart-saatis-aqsesuarebi-smart-saatis-samajurebi-c1014",
+          "googleCategoryId": null
+        },
+        {
+          "id": 465,
+          "name": "სმარტ საათის ეკრანის დამცავები",
+          "orderNo": 2,
+          "url": "smart-saatis-aqsesuarebi-smart-saatis-ekranis-damcavebi-c465",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1219,
+      "name": "USER MANUAL",
+      "orderNo": 0,
+      "url": "user-manual-c1219",
+      "childCategories": [
+        {
+          "id": 1220,
+          "name": "Realme",
+          "orderNo": 0,
+          "url": "user-manual-realme-c1220",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 700,
+      "name": "ლეპტოპის აქსესუარები",
+      "orderNo": 30,
+      "url": "leptopis-aqsesuarebi-c700",
+      "childCategories": [
+        {
+          "id": 476,
+          "name": "ლეპტოპის კლავიატურის დამცავები",
+          "orderNo": 12,
+          "url": "leptopis-aqsesuarebi-leptopis-klaviaturis-damcavebi-c476",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1048,
+          "name": "პორტატილი HDD",
+          "orderNo": 16,
+          "url": "leptopis-aqsesuarebi-portatili-hdd-c1048",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1049,
+          "name": "შიდა SSD",
+          "orderNo": 17,
+          "url": "leptopis-aqsesuarebi-shida-ssd-c1049",
+          "googleCategoryId": null
+        },
+        {
+          "id": 892,
+          "name": "Streaming მიკროფონები",
+          "orderNo": 9,
+          "url": "leptopis-aqsesuarebi-streaming-mikrofonebi-c892",
+          "googleCategoryId": null
+        },
+        {
+          "id": 889,
+          "name": "დენის დამაგრძელებლები",
+          "orderNo": 20,
+          "url": "leptopis-aqsesuarebi-denis-damagrdzeleblebi-c889",
+          "googleCategoryId": null
+        },
+        {
+          "id": 901,
+          "name": "დინამიკები",
+          "orderNo": 6,
+          "url": "leptopis-aqsesuarebi-dinamikebi-c901",
+          "googleCategoryId": null
+        },
+        {
+          "id": 960,
+          "name": "ლეპტოპის დამტენი",
+          "orderNo": 7,
+          "url": "leptopis-aqsesuarebi-leptopis-damteni-c960",
+          "googleCategoryId": null
+        },
+        {
+          "id": 657,
+          "name": "Web კამერები",
+          "orderNo": 10,
+          "url": "leptopis-aqsesuarebi-web-kamerebi-c657",
+          "googleCategoryId": null
+        },
+        {
+          "id": 699,
+          "name": "ლეპტოპის ჩანთები",
+          "orderNo": 1,
+          "url": "leptopis-aqsesuarebi-leptopis-chantebi-c699",
+          "googleCategoryId": null
+        },
+        {
+          "id": 698,
+          "name": "მაუსები",
+          "orderNo": 2,
+          "url": "leptopis-aqsesuarebi-mausebi-c698",
+          "googleCategoryId": null
+        },
+        {
+          "id": 697,
+          "name": "მაუს პედები",
+          "orderNo": 3,
+          "url": "leptopis-aqsesuarebi-maus-pedebi-c697",
+          "googleCategoryId": null
+        },
+        {
+          "id": 696,
+          "name": "მონიტორის საწმენდები",
+          "orderNo": 4,
+          "url": "leptopis-aqsesuarebi-monitoris-satsmendebi-c696",
+          "googleCategoryId": null
+        },
+        {
+          "id": 695,
+          "name": "კლავიატურები",
+          "orderNo": 5,
+          "url": "leptopis-aqsesuarebi-klaviaturebi-c695",
+          "googleCategoryId": null
+        },
+        {
+          "id": 691,
+          "name": "გამაგრილებელი პედები",
+          "orderNo": 8,
+          "url": "leptopis-aqsesuarebi-gamagrilebeli-pedebi-c691",
+          "googleCategoryId": null
+        },
+        {
+          "id": 471,
+          "name": "ლეპტოპის ქეისები",
+          "orderNo": 11,
+          "url": "leptopis-aqsesuarebi-leptopis-qeisebi-c471",
+          "googleCategoryId": null
+        },
+        {
+          "id": 773,
+          "name": "Dock Station",
+          "orderNo": 21,
+          "url": "leptopis-aqsesuarebi-dock-station-c773",
+          "googleCategoryId": null
+        },
+        {
+          "id": 546,
+          "name": "ლეპტოპის ეკრანის დამცავები",
+          "orderNo": 18,
+          "url": "leptopis-aqsesuarebi-leptopis-ekranis-damcavebi-c546",
+          "googleCategoryId": null
+        },
+        {
+          "id": 637,
+          "name": "Wi-Fi როუტერები",
+          "orderNo": 14,
+          "url": "leptopis-aqsesuarebi-wi-fi-routerebi-c637",
+          "googleCategoryId": null
+        },
+        {
+          "id": 693,
+          "name": "ფლეშ მეხსიერებები",
+          "orderNo": 13,
+          "url": "leptopis-aqsesuarebi-flesh-mekhsierebebi-c693",
+          "googleCategoryId": null
+        },
+        {
+          "id": 750,
+          "name": "მაგიდები",
+          "orderNo": 19,
+          "url": "leptopis-aqsesuarebi-magidebi-c750",
+          "googleCategoryId": null
+        },
+        {
+          "id": 898,
+          "name": "პორტატული SSD ",
+          "orderNo": 15,
+          "url": "leptopis-aqsesuarebi-portatuli-ssd-c898",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 529,
+      "name": "სმარტ მოწყობილობები",
+      "orderNo": 38,
+      "url": "smart-motsyobilobebi-c529",
+      "childCategories": [
+        {
+          "id": 1055,
+          "name": "სმარტ ასისტენტები",
+          "orderNo": 5,
+          "url": "smart-motsyobilobebi-smart-asistentebi-c1055",
+          "googleCategoryId": null
+        },
+        {
+          "id": 486,
+          "name": "ტემპერატურის ინდიკატორები",
+          "orderNo": 11,
+          "url": "smart-motsyobilobebi-temperaturis-indikatorebi-c486",
+          "googleCategoryId": null
+        },
+        {
+          "id": 483,
+          "name": "სმარტ ნათურები",
+          "orderNo": 8,
+          "url": "smart-motsyobilobebi-smart-naturebi-c483",
+          "googleCategoryId": null
+        },
+        {
+          "id": 484,
+          "name": "სმარტ ჩამრთველები",
+          "orderNo": 9,
+          "url": "smart-motsyobilobebi-smart-chamrtvelebi-c484",
+          "googleCategoryId": null
+        },
+        {
+          "id": 485,
+          "name": "განათების სენსორები",
+          "orderNo": 10,
+          "url": "smart-motsyobilobebi-ganatebis-sensorebi-c485",
+          "googleCategoryId": null
+        },
+        {
+          "id": 487,
+          "name": "მოძრაობის სენსორები",
+          "orderNo": 12,
+          "url": "smart-motsyobilobebi-modzraobis-sensorebi-c487",
+          "googleCategoryId": null
+        },
+        {
+          "id": 491,
+          "name": "ჭკვიანი ონკანი",
+          "orderNo": 14,
+          "url": "smart-motsyobilobebi-chkviani-onkani-c491",
+          "googleCategoryId": null
+        },
+        {
+          "id": 522,
+          "name": "სმარტ ჰაბები",
+          "orderNo": 13,
+          "url": "smart-motsyobilobebi-smart-habebi-c522",
+          "googleCategoryId": null
+        },
+        {
+          "id": 468,
+          "name": "სმარტ გამათბობელი",
+          "orderNo": 7,
+          "url": "smart-motsyobilobebi-smart-gamatbobeli-c468",
+          "googleCategoryId": null
+        },
+        {
+          "id": 749,
+          "name": "სმარტ დინამიკები",
+          "orderNo": 15,
+          "url": "smart-motsyobilobebi-smart-dinamikebi-c749",
+          "googleCategoryId": null
+        },
+        {
+          "id": 548,
+          "name": "Doorbell",
+          "orderNo": 1,
+          "url": "smart-motsyobilobebi-doorbell-c548",
+          "googleCategoryId": null
+        },
+        {
+          "id": 769,
+          "name": "Eco Home",
+          "orderNo": 2,
+          "url": "smart-motsyobilobebi-eco-home-c769",
+          "googleCategoryId": null
+        },
+        {
+          "id": 823,
+          "name": "Nest Wi-Fi",
+          "orderNo": 3,
+          "url": "smart-motsyobilobebi-nest-wi-fi-c823",
+          "googleCategoryId": null
+        },
+        {
+          "id": 824,
+          "name": "Nest Mini",
+          "orderNo": 4,
+          "url": "smart-motsyobilobebi-nest-mini-c824",
+          "googleCategoryId": null
+        },
+        {
+          "id": 851,
+          "name": "TV Box",
+          "orderNo": 6,
+          "url": "smart-motsyobilobebi-tv-box-c851",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 469,
+      "name": "შინაური ცხოველები",
+      "orderNo": 75,
+      "url": "shinauri-ckhovelebi-c469",
+      "childCategories": [
+        {
+          "id": 1215,
+          "name": "საკვებისა და წყლის დისპენსერის აქსესუარები",
+          "orderNo": 3,
+          "url": "shinauri-ckhovelebi-sakvebisa-da-tsylis-dispenseris-aqsesuarebi-c1215",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1177,
+          "name": "წყლის დისპენსერი",
+          "orderNo": 2,
+          "url": "shinauri-ckhovelebi-tsylis-dispenseri-c1177",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1176,
+          "name": "საკვების დისპენსერი",
+          "orderNo": 1,
+          "url": "shinauri-ckhovelebi-sakvebis-dispenseri-c1176",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1086,
+      "name": "Ebook",
+      "orderNo": 49,
+      "url": "ebook-c1086",
+      "childCategories": [
+        {
+          "id": 1087,
+          "name": "Kindle",
+          "orderNo": 1,
+          "url": "ebook-kindle-c1087",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1229,
+          "name": "BOOX",
+          "orderNo": 2,
+          "url": "ebook-boox-c1229",
+          "googleCategoryId": "BOOX"
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 732,
+      "name": "ფოტო, ვიდეო აქსესუარები",
+      "orderNo": 43,
+      "url": "foto-video-aqsesuarebi-c732",
+      "childCategories": [
+        {
+          "id": 857,
+          "name": "ფოტოაპარატის ჩანთები",
+          "orderNo": 7,
+          "url": "foto-video-aqsesuarebi-fotoaparatis-chantebi-c857",
+          "googleCategoryId": null
+        },
+        {
+          "id": 868,
+          "name": "შტატივები",
+          "orderNo": 8,
+          "url": "foto-video-aqsesuarebi-shtativebi-c868",
+          "googleCategoryId": null
+        },
+        {
+          "id": 875,
+          "name": "ლინზები",
+          "orderNo": 2,
+          "url": "foto-video-aqsesuarebi-linzebi-c875",
+          "googleCategoryId": null
+        },
+        {
+          "id": 886,
+          "name": "მეხსიერების ბარათები",
+          "orderNo": 3,
+          "url": "foto-video-aqsesuarebi-mekhsierebis-baratebi-c886",
+          "googleCategoryId": null
+        },
+        {
+          "id": 954,
+          "name": "Gimbal სტაბილიზატორები",
+          "orderNo": 6,
+          "url": "foto-video-aqsesuarebi-gimbal-stabilizatorebi-c954",
+          "googleCategoryId": null
+        },
+        {
+          "id": 953,
+          "name": "სტუდიური განათებები",
+          "orderNo": 9,
+          "url": "foto-video-aqsesuarebi-studiuri-ganatebebi-c953",
+          "googleCategoryId": null
+        },
+        {
+          "id": 731,
+          "name": "Speedlite განათებები",
+          "orderNo": 1,
+          "url": "foto-video-aqsesuarebi-speedlite-ganatebebi-c731",
+          "googleCategoryId": null
+        },
+        {
+          "id": 821,
+          "name": "კამერის სტაბილიზატორები",
+          "orderNo": 5,
+          "url": "foto-video-aqsesuarebi-kameris-stabilizatorebi-c821",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1061,
+          "name": "მობილურის სტაბილიზატორები ",
+          "orderNo": 4,
+          "url": "foto-video-aqsesuarebi-mobiluris-stabilizatorebi-c1061",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1062,
+          "name": "უსადენო მიკროფონები",
+          "orderNo": 10,
+          "url": "foto-video-aqsesuarebi-usadeno-mikrofonebi-c1062",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1063,
+          "name": "ფოტოაპარატის მიკროფონები",
+          "orderNo": 11,
+          "url": "foto-video-aqsesuarebi-fotoaparatis-mikrofonebi-c1063",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 683,
+      "name": "Xbox",
+      "orderNo": 12,
+      "url": "xbox-c683",
+      "childCategories": [
+        {
+          "id": 859,
+          "name": "XBOX-ის კონტროლერები",
+          "orderNo": 3,
+          "url": "xbox-xbox-is-kontrolerebi-c859",
+          "googleCategoryId": null
+        },
+        {
+          "id": 926,
+          "name": "Xbox-ის თამაშები",
+          "orderNo": 2,
+          "url": "xbox-xbox-is-tamashebi-c926",
+          "googleCategoryId": null
+        },
+        {
+          "id": 909,
+          "name": "Xbox-ის აქსესუარები",
+          "orderNo": 4,
+          "url": "xbox-xbox-is-aqsesuarebi-c909",
+          "googleCategoryId": null
+        },
+        {
+          "id": 682,
+          "name": "Xbox",
+          "orderNo": 1,
+          "url": "xbox-xbox-c682",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 495,
+      "name": "სამზარეულო",
+      "orderNo": 54,
+      "url": "samzareulo-c495",
+      "childCategories": [
+        {
+          "id": 492,
+          "name": "პურის საცხობი",
+          "orderNo": 4,
+          "url": "samzareulo-puris-sackhobi-c492",
+          "googleCategoryId": null
+        },
+        {
+          "id": 459,
+          "name": "ჩაიდანი",
+          "orderNo": 5,
+          "url": "samzareulo-chaidani-c459",
+          "googleCategoryId": null
+        },
+        {
+          "id": 494,
+          "name": "წვენსაწური",
+          "orderNo": 10,
+          "url": "samzareulo-tsvensatsuri-c494",
+          "googleCategoryId": null
+        },
+        {
+          "id": 525,
+          "name": "ინდუქციური ღუმელი",
+          "orderNo": 3,
+          "url": "samzareulo-induqciuri-ghumeli-c525",
+          "googleCategoryId": null
+        },
+        {
+          "id": 493,
+          "name": "ღვინის გასახსნელი",
+          "orderNo": 9,
+          "url": "samzareulo-ghvinis-gasakhsneli-c493",
+          "googleCategoryId": null
+        },
+        {
+          "id": 547,
+          "name": "თერმოსები",
+          "orderNo": 1,
+          "url": "samzareulo-termosebi-c547",
+          "googleCategoryId": null
+        },
+        {
+          "id": 602,
+          "name": "ბლენდერი",
+          "orderNo": 2,
+          "url": "samzareulo-blenderi-c602",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1109,
+          "name": "სამზარეულოს სასწორი",
+          "orderNo": 7,
+          "url": "samzareulo-samzareulos-sastsori-c1109",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1110,
+          "name": "ჭკვიანი ონკანები",
+          "orderNo": 8,
+          "url": "samzareulo-chkviani-onkanebi-c1110",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1108,
+          "name": "აეროგრილი",
+          "orderNo": 6,
+          "url": "samzareulo-aerogrili-c1108",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 858,
+      "name": "ფოტო და ვიდეო კამერები",
+      "orderNo": 42,
+      "url": "foto-da-video-kamerebi-c858",
+      "childCategories": [
+        {
+          "id": 863,
+          "name": "360° კამერები",
+          "orderNo": 6,
+          "url": "foto-da-video-kamerebi-360-kamerebi-c863",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1207,
+          "name": "Fujifilm",
+          "orderNo": 4,
+          "url": "foto-da-video-kamerebi-fujifilm-c1207",
+          "googleCategoryId": null
+        },
+        {
+          "id": 737,
+          "name": "Sony",
+          "orderNo": 3,
+          "url": "foto-da-video-kamerebi-sony-c737",
+          "googleCategoryId": null
+        },
+        {
+          "id": 738,
+          "name": "Nikon",
+          "orderNo": 1,
+          "url": "foto-da-video-kamerebi-nikon-c738",
+          "googleCategoryId": null
+        },
+        {
+          "id": 739,
+          "name": "Canon",
+          "orderNo": 2,
+          "url": "foto-da-video-kamerebi-canon-c739",
+          "googleCategoryId": null
+        },
+        {
+          "id": 819,
+          "name": "ვიდეო კამერები",
+          "orderNo": 5,
+          "url": "foto-da-video-kamerebi-video-kamerebi-c819",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 532,
+      "name": "აკუსტიკური სისტემები",
+      "orderNo": 40,
+      "url": "akustikuri-sistemebi-c532",
+      "childCategories": [
+        {
+          "id": 1058,
+          "name": "სტუდიური დინამიკები",
+          "orderNo": 5,
+          "url": "akustikuri-sistemebi-studiuri-dinamikebi-c1058",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1059,
+          "name": "დინამიკები",
+          "orderNo": 9,
+          "url": "akustikuri-sistemebi-dinamikebi-c1059",
+          "googleCategoryId": null
+        },
+        {
+          "id": 520,
+          "name": "დინამიკის აქსესუარები",
+          "orderNo": 7,
+          "url": "akustikuri-sistemebi-dinamikis-aqsesuarebi-c520",
+          "googleCategoryId": null
+        },
+        {
+          "id": 578,
+          "name": "ხმის ბარები",
+          "orderNo": 1,
+          "url": "akustikuri-sistemebi-khmis-barebi-c578",
+          "googleCategoryId": null
+        },
+        {
+          "id": 610,
+          "name": "ფირსაკრავის აქსესუარები",
+          "orderNo": 2,
+          "url": "akustikuri-sistemebi-firsakravis-aqsesuarebi-c610",
+          "googleCategoryId": null
+        },
+        {
+          "id": 694,
+          "name": "PC დინამიკები",
+          "orderNo": 6,
+          "url": "akustikuri-sistemebi-pc-dinamikebi-c694",
+          "googleCategoryId": null
+        },
+        {
+          "id": 745,
+          "name": "სახლის დინამიკები",
+          "orderNo": 3,
+          "url": "akustikuri-sistemebi-sakhlis-dinamikebi-c745",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1185,
+          "name": "სახლის კინოთეატრები",
+          "orderNo": 13,
+          "url": "akustikuri-sistemebi-sakhlis-kinoteatrebi-c1185",
+          "googleCategoryId": null
+        },
+        {
+          "id": 761,
+          "name": "ფირსაკრავები",
+          "orderNo": 4,
+          "url": "akustikuri-sistemebi-firsakravebi-c761",
+          "googleCategoryId": null
+        },
+        {
+          "id": 852,
+          "name": "სმარტ ასისტენტი",
+          "orderNo": 8,
+          "url": "akustikuri-sistemebi-smart-asistenti-c852",
+          "googleCategoryId": null
+        },
+        {
+          "id": 902,
+          "name": "პორტატული დინამიკები",
+          "orderNo": 10,
+          "url": "akustikuri-sistemebi-portatuli-dinamikebi-c902",
+          "googleCategoryId": null
+        },
+        {
+          "id": 975,
+          "name": "დიქტოფონები",
+          "orderNo": 11,
+          "url": "akustikuri-sistemebi-diqtofonebi-c975",
+          "googleCategoryId": null
+        },
+        {
+          "id": 980,
+          "name": "სპორტული ბლუთუზ დინამიკები",
+          "orderNo": 12,
+          "url": "akustikuri-sistemebi-sportuli-blutuz-dinamikebi-c980",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 887,
+      "name": "ყურსასმენები - Buds",
+      "orderNo": 17,
+      "url": "yursasmenebi-buds-c887",
+      "childCategories": [
+        {
+          "id": 1035,
+          "name": "Sony Buds",
+          "orderNo": 5,
+          "url": "yursasmenebi-buds-sony-buds-c1035",
+          "googleCategoryId": null
+        },
+        {
+          "id": 763,
+          "name": "Airpods-ის ქეისები",
+          "orderNo": 14,
+          "url": "yursasmenebi-buds-airpods-is-qeisebi-c763",
+          "googleCategoryId": null
+        },
+        {
+          "id": 458,
+          "name": "Apple Airpods",
+          "orderNo": 1,
+          "url": "yursasmenebi-buds-apple-airpods-c458",
+          "googleCategoryId": null
+        },
+        {
+          "id": 962,
+          "name": "OnePlus Buds",
+          "orderNo": 8,
+          "url": "yursasmenebi-buds-oneplus-buds-c962",
+          "googleCategoryId": null
+        },
+        {
+          "id": 523,
+          "name": "Buds-ის აქსესუარები",
+          "orderNo": 13,
+          "url": "yursasmenebi-buds-buds-is-aqsesuarebi-c523",
+          "googleCategoryId": null
+        },
+        {
+          "id": 617,
+          "name": "Realme Buds",
+          "orderNo": 11,
+          "url": "yursasmenebi-buds-realme-buds-c617",
+          "googleCategoryId": null
+        },
+        {
+          "id": 618,
+          "name": "Xiaomi Buds",
+          "orderNo": 3,
+          "url": "yursasmenebi-buds-xiaomi-buds-c618",
+          "googleCategoryId": null
+        },
+        {
+          "id": 619,
+          "name": "Galaxy Buds",
+          "orderNo": 2,
+          "url": "yursasmenebi-buds-galaxy-buds-c619",
+          "googleCategoryId": null
+        },
+        {
+          "id": 788,
+          "name": "Google Buds",
+          "orderNo": 4,
+          "url": "yursasmenebi-buds-google-buds-c788",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1036,
+          "name": "Nothing Buds",
+          "orderNo": 6,
+          "url": "yursasmenebi-buds-nothing-buds-c1036",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1037,
+          "name": "JBL Buds",
+          "orderNo": 7,
+          "url": "yursasmenebi-buds-jbl-buds-c1037",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1038,
+          "name": "Marshall Buds",
+          "orderNo": 9,
+          "url": "yursasmenebi-buds-marshall-buds-c1038",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1039,
+          "name": "Blackshark Buds",
+          "orderNo": 10,
+          "url": "yursasmenebi-buds-blackshark-buds-c1039",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1040,
+          "name": "Honor Buds",
+          "orderNo": 12,
+          "url": "yursasmenebi-buds-honor-buds-c1040",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1041,
+          "name": "ყურსასმენები - Buds",
+          "orderNo": 15,
+          "url": "yursasmenebi-buds-yursasmenebi-buds-c1041",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1191,
+      "name": "სამგზავრო ჩანთები",
+      "orderNo": 78,
+      "url": "samgzavro-chantebi-c1191",
+      "childCategories": [
+        {
+          "id": 1192,
+          "name": "სამგზავრო ჩემოდანი",
+          "orderNo": 1,
+          "url": "samgzavro-chantebi-samgzavro-chemodani-c1192",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 642,
+      "name": "პროექტორები",
+      "orderNo": 34,
+      "url": "proeqtorebi-c642",
+      "childCategories": [
+        {
+          "id": 890,
+          "name": "ლაზერული პროექტორები",
+          "orderNo": 1,
+          "url": "proeqtorebi-lazeruli-proeqtorebi-c890",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1198,
+          "name": "პროექტორის ჩანთები",
+          "orderNo": 6,
+          "url": "proeqtorebi-proeqtoris-chantebi-c1198",
+          "googleCategoryId": null
+        },
+        {
+          "id": 640,
+          "name": "პრეზენტერები",
+          "orderNo": 3,
+          "url": "proeqtorebi-prezenterebi-c640",
+          "googleCategoryId": null
+        },
+        {
+          "id": 641,
+          "name": "პროექტორის დაფები",
+          "orderNo": 4,
+          "url": "proeqtorebi-proeqtoris-dafebi-c641",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1052,
+          "name": "მულტიმედია პროექტორები",
+          "orderNo": 2,
+          "url": "proeqtorebi-multimedia-proeqtorebi-c1052",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1053,
+          "name": "პროექტორის შტატივები",
+          "orderNo": 5,
+          "url": "proeqtorebi-proeqtoris-shtativebi-c1053",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 862,
+      "name": "მიკროფონი",
+      "orderNo": 39,
+      "url": "mikrofoni-c862",
+      "childCategories": [
+        {
+          "id": 882,
+          "name": "Streaming მიკროფონის სამაგრი",
+          "orderNo": 8,
+          "url": "mikrofoni-streaming-mikrofonis-samagri-c882",
+          "googleCategoryId": null
+        },
+        {
+          "id": 587,
+          "name": "ფოტოაპარატის მიკროფონები",
+          "orderNo": 4,
+          "url": "mikrofoni-fotoaparatis-mikrofonebi-c587",
+          "googleCategoryId": null
+        },
+        {
+          "id": 588,
+          "name": "ლაპელური მიკროფონები",
+          "orderNo": 5,
+          "url": "mikrofoni-lapeluri-mikrofonebi-c588",
+          "googleCategoryId": null
+        },
+        {
+          "id": 589,
+          "name": "მიკროფონის აქსესუარი",
+          "orderNo": 6,
+          "url": "mikrofoni-mikrofonis-aqsesuari-c589",
+          "googleCategoryId": null
+        },
+        {
+          "id": 730,
+          "name": "უსადენო მიკროფონები",
+          "orderNo": 7,
+          "url": "mikrofoni-usadeno-mikrofonebi-c730",
+          "googleCategoryId": null
+        },
+        {
+          "id": 585,
+          "name": "საკონფერენციო მიკროფონები",
+          "orderNo": 3,
+          "url": "mikrofoni-sakonferencio-mikrofonebi-c585",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1056,
+          "name": "სტრიმინგ მიკროფონები",
+          "orderNo": 1,
+          "url": "mikrofoni-striming-mikrofonebi-c1056",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1057,
+          "name": "Gaming მიკროფონები",
+          "orderNo": 2,
+          "url": "mikrofoni-gaming-mikrofonebi-c1057",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 675,
+      "name": "Gaming მოწყობილობები",
+      "orderNo": 16,
+      "url": "gaming-motsyobilobebi-c675",
+      "childCategories": [
+        {
+          "id": 894,
+          "name": "HP Pavilion | Victus | OMEN",
+          "orderNo": 1,
+          "url": "gaming-motsyobilobebi-hp-pavilion-victus-omen-c894",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1223,
+          "name": "MSI",
+          "orderNo": 3,
+          "url": "gaming-motsyobilobebi-msi-c1223",
+          "googleCategoryId": null
+        },
+        {
+          "id": 671,
+          "name": "ASUS ROG | TUF",
+          "orderNo": 4,
+          "url": "gaming-motsyobilobebi-asus-rog-tuf-c671",
+          "googleCategoryId": null
+        },
+        {
+          "id": 672,
+          "name": "Lenovo LEGION | Gaming 3",
+          "orderNo": 5,
+          "url": "gaming-motsyobilobebi-lenovo-legion-gaming-3-c672",
+          "googleCategoryId": null
+        },
+        {
+          "id": 673,
+          "name": "Dell Inspiron | Alienware",
+          "orderNo": 6,
+          "url": "gaming-motsyobilobebi-dell-inspiron-alienware-c673",
+          "googleCategoryId": null
+        },
+        {
+          "id": 674,
+          "name": "ACER Nitro | Predator",
+          "orderNo": 7,
+          "url": "gaming-motsyobilobebi-acer-nitro-predator-c674",
+          "googleCategoryId": null
+        },
+        {
+          "id": 669,
+          "name": "MSI G Series | Leopard",
+          "orderNo": 2,
+          "url": "gaming-motsyobilobebi-msi-g-series-leopard-c669",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1034,
+          "name": "Gaming მონიტორები",
+          "orderNo": 8,
+          "url": "gaming-motsyobilobebi-gaming-monitorebi-c1034",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 463,
+      "name": "Gaming",
+      "orderNo": 10,
+      "url": "gaming-c463",
+      "childCategories": [
+        {
+          "id": 871,
+          "name": "VR სათვალეები",
+          "orderNo": 4,
+          "url": "gaming-vr-satvaleebi-c871",
+          "googleCategoryId": null
+        },
+        {
+          "id": 897,
+          "name": "სტრიმინგ მიკროფონები",
+          "orderNo": 12,
+          "url": "gaming-striming-mikrofonebi-c897",
+          "googleCategoryId": null
+        },
+        {
+          "id": 930,
+          "name": "კონსოლები",
+          "orderNo": 1,
+          "url": "gaming-konsolebi-c930",
+          "googleCategoryId": null
+        },
+        {
+          "id": 956,
+          "name": "Gaming ყურსასმენები",
+          "orderNo": 9,
+          "url": "gaming-gaming-yursasmenebi-c956",
+          "googleCategoryId": null
+        },
+        {
+          "id": 559,
+          "name": "PC",
+          "orderNo": 5,
+          "url": "gaming-pc-c559",
+          "googleCategoryId": null
+        },
+        {
+          "id": 684,
+          "name": "VR სიმულატორები",
+          "orderNo": 3,
+          "url": "gaming-vr-simulatorebi-c684",
+          "googleCategoryId": null
+        },
+        {
+          "id": 677,
+          "name": "Oculus",
+          "orderNo": 2,
+          "url": "gaming-oculus-c677",
+          "googleCategoryId": null
+        },
+        {
+          "id": 686,
+          "name": "კონტროლერები",
+          "orderNo": 7,
+          "url": "gaming-kontrolerebi-c686",
+          "googleCategoryId": null
+        },
+        {
+          "id": 687,
+          "name": "თამაშები",
+          "orderNo": 8,
+          "url": "gaming-tamashebi-c687",
+          "googleCategoryId": null
+        },
+        {
+          "id": 668,
+          "name": "Gaming მონიტორები",
+          "orderNo": 10,
+          "url": "gaming-gaming-monitorebi-c668",
+          "googleCategoryId": null
+        },
+        {
+          "id": 667,
+          "name": "Gaming სმარტფონები",
+          "orderNo": 11,
+          "url": "gaming-gaming-smartfonebi-c667",
+          "googleCategoryId": null
+        },
+        {
+          "id": 838,
+          "name": "Gaming ლეპტოპები",
+          "orderNo": 6,
+          "url": "gaming-gaming-leptopebi-c838",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 893,
+      "name": "Gaming აქსესუარები",
+      "orderNo": 9,
+      "url": "gaming-aqsesuarebi-c893",
+      "childCategories": [
+        {
+          "id": 663,
+          "name": "Gaming კლავიატურები",
+          "orderNo": 3,
+          "url": "gaming-aqsesuarebi-gaming-klaviaturebi-c663",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1017,
+          "name": "Gaming ყურსასმენები",
+          "orderNo": 1,
+          "url": "gaming-aqsesuarebi-gaming-yursasmenebi-c1017",
+          "googleCategoryId": null
+        },
+        {
+          "id": 576,
+          "name": "ვიდეო ბარათები",
+          "orderNo": 17,
+          "url": "gaming-aqsesuarebi-video-baratebi-c576",
+          "googleCategoryId": null
+        },
+        {
+          "id": 662,
+          "name": "მაგიდები",
+          "orderNo": 4,
+          "url": "gaming-aqsesuarebi-magidebi-c662",
+          "googleCategoryId": null
+        },
+        {
+          "id": 661,
+          "name": "სავარძლები",
+          "orderNo": 5,
+          "url": "gaming-aqsesuarebi-savardzlebi-c661",
+          "googleCategoryId": null
+        },
+        {
+          "id": 660,
+          "name": "სათამაშო საჭეები",
+          "orderNo": 6,
+          "url": "gaming-aqsesuarebi-satamasho-sacheebi-c660",
+          "googleCategoryId": null
+        },
+        {
+          "id": 659,
+          "name": "გამაგრილებელი პედები",
+          "orderNo": 7,
+          "url": "gaming-aqsesuarebi-gamagrilebeli-pedebi-c659",
+          "googleCategoryId": null
+        },
+        {
+          "id": 658,
+          "name": "Gaming დინამიკები",
+          "orderNo": 8,
+          "url": "gaming-aqsesuarebi-gaming-dinamikebi-c658",
+          "googleCategoryId": null
+        },
+        {
+          "id": 656,
+          "name": "SSD მყარი დისკები",
+          "orderNo": 18,
+          "url": "gaming-aqsesuarebi-ssd-myari-diskebi-c656",
+          "googleCategoryId": null
+        },
+        {
+          "id": 689,
+          "name": "Web კამერები",
+          "orderNo": 10,
+          "url": "gaming-aqsesuarebi-web-kamerebi-c689",
+          "googleCategoryId": null
+        },
+        {
+          "id": 664,
+          "name": "მაუს პედები",
+          "orderNo": 16,
+          "url": "gaming-aqsesuarebi-maus-pedebi-c664",
+          "googleCategoryId": null
+        },
+        {
+          "id": 685,
+          "name": "Gaming აქსესუარები",
+          "orderNo": 19,
+          "url": "gaming-aqsesuarebi-gaming-aqsesuarebi-c685",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1018,
+          "name": "Gaming მაუსები",
+          "orderNo": 2,
+          "url": "gaming-aqsesuarebi-gaming-mausebi-c1018",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1019,
+          "name": "Gaming მიკროფონები",
+          "orderNo": 9,
+          "url": "gaming-aqsesuarebi-gaming-mikrofonebi-c1019",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1020,
+          "name": "HDMI & LAN კაბელები",
+          "orderNo": 11,
+          "url": "gaming-aqsesuarebi-hdmi-lan-kabelebi-c1020",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1021,
+          "name": "Wi-Fi როუტერები",
+          "orderNo": 12,
+          "url": "gaming-aqsesuarebi-wi-fi-routerebi-c1021",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1022,
+          "name": "LTE როუტერები",
+          "orderNo": 13,
+          "url": "gaming-aqsesuarebi-lte-routerebi-c1022",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1023,
+          "name": "სათამაშო ტრიგერები",
+          "orderNo": 14,
+          "url": "gaming-aqsesuarebi-satamasho-trigerebi-c1023",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1024,
+          "name": "RGB განათება",
+          "orderNo": 15,
+          "url": "gaming-aqsesuarebi-rgb-ganateba-c1024",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 891,
+      "name": "მედია პლეერები",
+      "orderNo": 51,
+      "url": "media-pleerebi-c891",
+      "childCategories": [
+        {
+          "id": 648,
+          "name": "Amazon Fire TV Stick",
+          "orderNo": 4,
+          "url": "media-pleerebi-amazon-fire-tv-stick-c648",
+          "googleCategoryId": null
+        },
+        {
+          "id": 649,
+          "name": "Apple TV Box",
+          "orderNo": 3,
+          "url": "media-pleerebi-apple-tv-box-c649",
+          "googleCategoryId": null
+        },
+        {
+          "id": 650,
+          "name": "Xiaomi Mi TV Box",
+          "orderNo": 2,
+          "url": "media-pleerebi-xiaomi-mi-tv-box-c650",
+          "googleCategoryId": null
+        },
+        {
+          "id": 651,
+          "name": "Xiaomi Mi TV Stick",
+          "orderNo": 1,
+          "url": "media-pleerebi-xiaomi-mi-tv-stick-c651",
+          "googleCategoryId": null
+        },
+        {
+          "id": 467,
+          "name": "TapCast",
+          "orderNo": 6,
+          "url": "media-pleerebi-tapcast-c467",
+          "googleCategoryId": null
+        },
+        {
+          "id": 504,
+          "name": "Google Chromecast",
+          "orderNo": 5,
+          "url": "media-pleerebi-google-chromecast-c504",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 517,
+      "name": "ფიტნეს ტრეკერები და აქსესუარები",
+      "orderNo": 7,
+      "url": "fitnes-trekerebi-da-aqsesuarebi-c517",
+      "childCategories": [
+        {
+          "id": 972,
+          "name": "ფიტნეს ტრეკერის აქსესუარები",
+          "orderNo": 2,
+          "url": "fitnes-trekerebi-da-aqsesuarebi-fitnes-trekeris-aqsesuarebi-c972",
+          "googleCategoryId": null
+        },
+        {
+          "id": 872,
+          "name": "ფიტნეს ტრეკერები",
+          "orderNo": 1,
+          "url": "fitnes-trekerebi-da-aqsesuarebi-fitnes-trekerebi-c872",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 717,
+      "name": "ლეპტოპის ბრენდები",
+      "orderNo": 28,
+      "url": "leptopis-brendebi-c717",
+      "childCategories": [
+        {
+          "id": 965,
+          "name": "Microsoft",
+          "orderNo": 2,
+          "url": "leptopis-brendebi-microsoft-c965",
+          "googleCategoryId": null
+        },
+        {
+          "id": 595,
+          "name": "Samsung",
+          "orderNo": 9,
+          "url": "leptopis-brendebi-samsung-c595",
+          "googleCategoryId": null
+        },
+        {
+          "id": 609,
+          "name": "Honor",
+          "orderNo": 10,
+          "url": "leptopis-brendebi-honor-c609",
+          "googleCategoryId": null
+        },
+        {
+          "id": 644,
+          "name": "HP",
+          "orderNo": 3,
+          "url": "leptopis-brendebi-hp-c644",
+          "googleCategoryId": null
+        },
+        {
+          "id": 718,
+          "name": "MSI",
+          "orderNo": 8,
+          "url": "leptopis-brendebi-msi-c718",
+          "googleCategoryId": null
+        },
+        {
+          "id": 719,
+          "name": "Dell",
+          "orderNo": 7,
+          "url": "leptopis-brendebi-dell-c719",
+          "googleCategoryId": null
+        },
+        {
+          "id": 720,
+          "name": "Lenovo",
+          "orderNo": 6,
+          "url": "leptopis-brendebi-lenovo-c720",
+          "googleCategoryId": null
+        },
+        {
+          "id": 721,
+          "name": "Asus",
+          "orderNo": 4,
+          "url": "leptopis-brendebi-asus-c721",
+          "googleCategoryId": null
+        },
+        {
+          "id": 723,
+          "name": "Acer",
+          "orderNo": 5,
+          "url": "leptopis-brendebi-acer-c723",
+          "googleCategoryId": null
+        },
+        {
+          "id": 813,
+          "name": "Apple",
+          "orderNo": 1,
+          "url": "leptopis-brendebi-apple-c813",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 461,
+      "name": "სკუტერები",
+      "orderNo": 18,
+      "url": "skuterebi-c461",
+      "childCategories": [
+        {
+          "id": 957,
+          "name": "სკუტერის აქსესუარები",
+          "orderNo": 4,
+          "url": "skuterebi-skuteris-aqsesuarebi-c957",
+          "googleCategoryId": null
+        },
+        {
+          "id": 560,
+          "name": "ჩაფხუტები",
+          "orderNo": 3,
+          "url": "skuterebi-chafkhutebi-c560",
+          "googleCategoryId": null
+        },
+        {
+          "id": 552,
+          "name": "Segway",
+          "orderNo": 1,
+          "url": "skuterebi-segway-c552",
+          "googleCategoryId": null
+        },
+        {
+          "id": 626,
+          "name": "Xiaomi",
+          "orderNo": 2,
+          "url": "skuterebi-xiaomi-c626",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 506,
+      "name": "ტელევიზორის და მონიტორის აქსესუარები",
+      "orderNo": 33,
+      "url": "televizoris-da-monitoris-aqsesuarebi-c506",
+      "childCategories": [
+        {
+          "id": 958,
+          "name": "დენის დამაგრძელებლები ",
+          "orderNo": 9,
+          "url": "televizoris-da-monitoris-aqsesuarebi-denis-damagrdzeleblebi-c958",
+          "googleCategoryId": null
+        },
+        {
+          "id": 502,
+          "name": "HDMI კაბელები",
+          "orderNo": 5,
+          "url": "televizoris-da-monitoris-aqsesuarebi-hdmi-kabelebi-c502",
+          "googleCategoryId": null
+        },
+        {
+          "id": 603,
+          "name": "ტელევიზორის საკიდები",
+          "orderNo": 1,
+          "url": "televizoris-da-monitoris-aqsesuarebi-televizoris-sakidebi-c603",
+          "googleCategoryId": null
+        },
+        {
+          "id": 556,
+          "name": "ელექტროსადგურები",
+          "orderNo": 11,
+          "url": "televizoris-da-monitoris-aqsesuarebi-eleqtrosadgurebi-c556",
+          "googleCategoryId": null
+        },
+        {
+          "id": 562,
+          "name": "ელემენტები",
+          "orderNo": 12,
+          "url": "televizoris-da-monitoris-aqsesuarebi-elementebi-c562",
+          "googleCategoryId": null
+        },
+        {
+          "id": 633,
+          "name": "მონიტორის განათება",
+          "orderNo": 7,
+          "url": "televizoris-da-monitoris-aqsesuarebi-monitoris-ganateba-c633",
+          "googleCategoryId": null
+        },
+        {
+          "id": 632,
+          "name": "მონიტორის საწმენდები",
+          "orderNo": 8,
+          "url": "televizoris-da-monitoris-aqsesuarebi-monitoris-satsmendebi-c632",
+          "googleCategoryId": null
+        },
+        {
+          "id": 634,
+          "name": "RGB განათება",
+          "orderNo": 10,
+          "url": "televizoris-da-monitoris-aqsesuarebi-rgb-ganateba-c634",
+          "googleCategoryId": null
+        },
+        {
+          "id": 635,
+          "name": "TV კლავიატურები",
+          "orderNo": 13,
+          "url": "televizoris-da-monitoris-aqsesuarebi-tv-klaviaturebi-c635",
+          "googleCategoryId": null
+        },
+        {
+          "id": 766,
+          "name": "UPS კვების წყარო",
+          "orderNo": 3,
+          "url": "televizoris-da-monitoris-aqsesuarebi-ups-kvebis-tsyaro-c766",
+          "googleCategoryId": null
+        },
+        {
+          "id": 768,
+          "name": "LAN კაბელები",
+          "orderNo": 6,
+          "url": "televizoris-da-monitoris-aqsesuarebi-lan-kabelebi-c768",
+          "googleCategoryId": null
+        },
+        {
+          "id": 762,
+          "name": "Web კამერები",
+          "orderNo": 2,
+          "url": "televizoris-da-monitoris-aqsesuarebi-web-kamerebi-c762",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1051,
+          "name": "Wi-Fi როუტერები",
+          "orderNo": 4,
+          "url": "televizoris-da-monitoris-aqsesuarebi-wi-fi-routerebi-c1051",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 514,
+      "name": "სასაჩუქრე ბარათები",
+      "orderNo": 58,
+      "url": "sasachuqre-baratebi-c514",
+      "childCategories": [
+        {
+          "id": 1128,
+          "name": "სასაჩუქრე ბარათები ",
+          "orderNo": 1,
+          "url": "sasachuqre-baratebi-sasachuqre-baratebi-c1128",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 688,
+      "name": "PlayStation",
+      "orderNo": 8,
+      "url": "playstation-c688",
+      "childCategories": [
+        {
+          "id": 928,
+          "name": "PlayStation-ის თამაშები",
+          "orderNo": 2,
+          "url": "playstation-playstation-is-tamashebi-c928",
+          "googleCategoryId": null
+        },
+        {
+          "id": 917,
+          "name": "PlayStation-ის აქსესუარები",
+          "orderNo": 4,
+          "url": "playstation-playstation-is-aqsesuarebi-c917",
+          "googleCategoryId": null
+        },
+        {
+          "id": 472,
+          "name": "კონტროლერის აქსესუარები ",
+          "orderNo": 6,
+          "url": "playstation-kontroleris-aqsesuarebi-c472",
+          "googleCategoryId": null
+        },
+        {
+          "id": 918,
+          "name": "PlayStation",
+          "orderNo": 1,
+          "url": "playstation-playstation-c918",
+          "googleCategoryId": null
+        },
+        {
+          "id": 976,
+          "name": "PS4-ის აქსესუარები",
+          "orderNo": 5,
+          "url": "playstation-ps4-is-aqsesuarebi-c976",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1026,
+          "name": "PlayStation VR",
+          "orderNo": 7,
+          "url": "playstation-playstation-vr-c1026",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1025,
+          "name": "PlayStation-ის კონტროლერები ",
+          "orderNo": 3,
+          "url": "playstation-playstation-is-kontrolerebi-c1025",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 778,
+      "name": "მტვერსასრუტები",
+      "orderNo": 36,
+      "url": "mtversasrutebi-c778",
+      "childCategories": [
+        {
+          "id": 498,
+          "name": "პორტატული მტვერსასრუტები",
+          "orderNo": 2,
+          "url": "mtversasrutebi-portatuli-mtversasrutebi-c498",
+          "googleCategoryId": null
+        },
+        {
+          "id": 499,
+          "name": "ხელის მტვერსასრუტები",
+          "orderNo": 3,
+          "url": "mtversasrutebi-khelis-mtversasrutebi-c499",
+          "googleCategoryId": null
+        },
+        {
+          "id": 497,
+          "name": "მტვერსასრუტის აქსესუარები",
+          "orderNo": 1,
+          "url": "mtversasrutebi-mtversasrutis-aqsesuarebi-c497",
+          "googleCategoryId": null
+        },
+        {
+          "id": 526,
+          "name": "რობოტი მტვერსასრუტები",
+          "orderNo": 4,
+          "url": "mtversasrutebi-roboti-mtversasrutebi-c526",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 864,
+      "name": "ექშენ კამერები",
+      "orderNo": 21,
+      "url": "eqshen-kamerebi-c864",
+      "childCategories": [
+        {
+          "id": 1206,
+          "name": "Insta360",
+          "orderNo": 3,
+          "url": "eqshen-kamerebi-insta360-c1206",
+          "googleCategoryId": null
+        },
+        {
+          "id": 981,
+          "name": "ექშენ კამერის აქსესუარები",
+          "orderNo": 5,
+          "url": "eqshen-kamerebi-eqshen-kameris-aqsesuarebi-c981",
+          "googleCategoryId": null
+        },
+        {
+          "id": 733,
+          "name": "DJI Osmo",
+          "orderNo": 1,
+          "url": "eqshen-kamerebi-dji-osmo-c733",
+          "googleCategoryId": null
+        },
+        {
+          "id": 734,
+          "name": "GoPro",
+          "orderNo": 2,
+          "url": "eqshen-kamerebi-gopro-c734",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1042,
+          "name": "ექშენ კამერები",
+          "orderNo": 4,
+          "url": "eqshen-kamerebi-eqshen-kamerebi-c1042",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 473,
+      "name": "ხელსაწყოები",
+      "orderNo": 77,
+      "url": "khelsatsyoebi-c473",
+      "childCategories": [
+        {
+          "id": 464,
+          "name": "სმარტ საზომები",
+          "orderNo": 2,
+          "url": "khelsatsyoebi-smart-sazomebi-c464",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1183,
+          "name": "ელექტრო სახრახნისი და ბურღი",
+          "orderNo": 1,
+          "url": "khelsatsyoebi-eleqtro-sakhrakhnisi-da-burghi-c1183",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1184,
+          "name": "კომპრესორები და მუხტის მიმცემი",
+          "orderNo": 3,
+          "url": "khelsatsyoebi-kompresorebi-da-mukhtis-mimcemi-c1184",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 713,
+      "name": "ლეპტოპის მახასიათებლები",
+      "orderNo": 29,
+      "url": "leptopis-makhasiateblebi-c713",
+      "childCategories": [
+        {
+          "id": 511,
+          "name": "Chromebook",
+          "orderNo": 10,
+          "url": "leptopis-makhasiateblebi-chromebook-c511",
+          "googleCategoryId": null
+        },
+        {
+          "id": 565,
+          "name": "Windows 11-ით",
+          "orderNo": 1,
+          "url": "leptopis-makhasiateblebi-windows-11-it-c565",
+          "googleCategoryId": null
+        },
+        {
+          "id": 712,
+          "name": "Windows 10-ით",
+          "orderNo": 6,
+          "url": "leptopis-makhasiateblebi-windows-10-it-c712",
+          "googleCategoryId": null
+        },
+        {
+          "id": 711,
+          "name": "FHD რეზოლუციით",
+          "orderNo": 2,
+          "url": "leptopis-makhasiateblebi-fhd-rezoluciit-c711",
+          "googleCategoryId": null
+        },
+        {
+          "id": 710,
+          "name": "SSD მეხსიერებით",
+          "orderNo": 3,
+          "url": "leptopis-makhasiateblebi-ssd-mekhsierebit-c710",
+          "googleCategoryId": null
+        },
+        {
+          "id": 709,
+          "name": "ვიდეო ბარათით",
+          "orderNo": 4,
+          "url": "leptopis-makhasiateblebi-video-baratit-c709",
+          "googleCategoryId": null
+        },
+        {
+          "id": 707,
+          "name": "სენსორული ეკრანით",
+          "orderNo": 5,
+          "url": "leptopis-makhasiateblebi-sensoruli-ekranit-c707",
+          "googleCategoryId": null
+        },
+        {
+          "id": 840,
+          "name": "Windows-ით",
+          "orderNo": 8,
+          "url": "leptopis-makhasiateblebi-windows-it-c840",
+          "googleCategoryId": null
+        },
+        {
+          "id": 841,
+          "name": "ულტრა თხელი",
+          "orderNo": 9,
+          "url": "leptopis-makhasiateblebi-ultra-tkheli-c841",
+          "googleCategoryId": null
+        },
+        {
+          "id": 834,
+          "name": "360° მოძრავი ეკრანით",
+          "orderNo": 7,
+          "url": "leptopis-makhasiateblebi-360-modzravi-ekranit-c834",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 507,
+      "name": "HDMI & LAN კაბელები",
+      "orderNo": 35,
+      "url": "hdmi-lan-kabelebi-c507",
+      "childCategories": [
+        {
+          "id": 510,
+          "name": "HDMI კაბელები",
+          "orderNo": 1,
+          "url": "hdmi-lan-kabelebi-hdmi-kabelebi-c510",
+          "googleCategoryId": null
+        },
+        {
+          "id": 636,
+          "name": "LAN კაბელები",
+          "orderNo": 2,
+          "url": "hdmi-lan-kabelebi-lan-kabelebi-c636",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1227,
+      "name": "სმარტ სათვალეები",
+      "orderNo": 3,
+      "url": "smart-satvaleebi-c1227",
+      "childCategories": [
+        {
+          "id": 1228,
+          "name": "Ray-Ban Meta",
+          "orderNo": 1,
+          "url": "smart-satvaleebi-ray-ban-meta-c1228",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 740,
+      "name": "Top Audio",
+      "orderNo": 67,
+      "url": "top-audio-c740",
+      "childCategories": [
+        {
+          "id": 1139,
+          "name": "Top Audio",
+          "orderNo": 1,
+          "url": "top-audio-top-audio-c1139",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 881,
+      "name": "ფოტო პრინტერები",
+      "orderNo": 23,
+      "url": "foto-printerebi-c881",
+      "childCategories": [
+        {
+          "id": 566,
+          "name": "Xiaomi",
+          "orderNo": 3,
+          "url": "foto-printerebi-xiaomi-c566",
+          "googleCategoryId": null
+        },
+        {
+          "id": 567,
+          "name": "Polaroid",
+          "orderNo": 1,
+          "url": "foto-printerebi-polaroid-c567",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1044,
+          "name": "Canon",
+          "orderNo": 2,
+          "url": "foto-printerebi-canon-c1044",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1045,
+          "name": "Polaroid-ის აქსესუარები",
+          "orderNo": 4,
+          "url": "foto-printerebi-polaroid-is-aqsesuarebi-c1045",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 460,
+      "name": "IT",
+      "orderNo": 25,
+      "url": "it-c460",
+      "childCategories": [
+        {
+          "id": 604,
+          "name": "Wi-Fi & Bluetooth ადაპტერები",
+          "orderNo": 8,
+          "url": "it-wi-fi-bluetooth-adapterebi-c604",
+          "googleCategoryId": null
+        },
+        {
+          "id": 690,
+          "name": "HUB გადამყვანები",
+          "orderNo": 6,
+          "url": "it-hub-gadamyvanebi-c690",
+          "googleCategoryId": null
+        },
+        {
+          "id": 702,
+          "name": "UPS კვების წყარო",
+          "orderNo": 7,
+          "url": "it-ups-kvebis-tsyaro-c702",
+          "googleCategoryId": null
+        },
+        {
+          "id": 764,
+          "name": "პრინტერის აქსესუარები",
+          "orderNo": 2,
+          "url": "it-printeris-aqsesuarebi-c764",
+          "googleCategoryId": null
+        },
+        {
+          "id": 833,
+          "name": "პრინტერები",
+          "orderNo": 1,
+          "url": "it-printerebi-c833",
+          "googleCategoryId": null
+        },
+        {
+          "id": 555,
+          "name": "WiFi Range Extender",
+          "orderNo": 5,
+          "url": "it-wifi-range-extender-c555",
+          "googleCategoryId": null
+        },
+        {
+          "id": 704,
+          "name": "Wi-Fi როუტერები",
+          "orderNo": 3,
+          "url": "it-wi-fi-routerebi-c704",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1047,
+          "name": "LTE როუტერები",
+          "orderNo": 4,
+          "url": "it-lte-routerebi-c1047",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 531,
+      "name": "ლეპტოპები",
+      "orderNo": 26,
+      "url": "leptopebi-c531",
+      "childCategories": [
+        {
+          "id": 563,
+          "name": "Business ლეპტოპი",
+          "orderNo": 2,
+          "url": "leptopebi-business-leptopi-c563",
+          "googleCategoryId": null
+        },
+        {
+          "id": 708,
+          "name": "Gaming ლეპტოპი",
+          "orderNo": 3,
+          "url": "leptopebi-gaming-leptopi-c708",
+          "googleCategoryId": null
+        },
+        {
+          "id": 564,
+          "name": "Classic ლეპტოპი",
+          "orderNo": 1,
+          "url": "leptopebi-classic-leptopi-c564",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 505,
+      "name": "ტელევიზორები",
+      "orderNo": 32,
+      "url": "televizorebi-c505",
+      "childCategories": [
+        {
+          "id": 557,
+          "name": "LG",
+          "orderNo": 1,
+          "url": "televizorebi-lg-c557",
+          "googleCategoryId": null
+        },
+        {
+          "id": 579,
+          "name": "Xiaomi",
+          "orderNo": 2,
+          "url": "televizorebi-xiaomi-c579",
+          "googleCategoryId": null
+        },
+        {
+          "id": 580,
+          "name": "Samsung",
+          "orderNo": 3,
+          "url": "televizorebi-samsung-c580",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1151,
+      "name": "Smartphone ფოტოგრაფია",
+      "orderNo": 71,
+      "url": "smartphone-fotografia-c1151",
+      "childCategories": [
+        {
+          "id": 1152,
+          "name": "Osmo Mobile",
+          "orderNo": 1,
+          "url": "smartphone-fotografia-osmo-mobile-c1152",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1154,
+          "name": "ლაპელური მიკროფონები",
+          "orderNo": 3,
+          "url": "smartphone-fotografia-lapeluri-mikrofonebi-c1154",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1155,
+          "name": "Tripod",
+          "orderNo": 4,
+          "url": "smartphone-fotografia-tripod-c1155",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1153,
+          "name": "ვლოგის ნაკრები",
+          "orderNo": 2,
+          "url": "smartphone-fotografia-vlogis-nakrebi-c1153",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1156,
+      "name": "Outdoor",
+      "orderNo": 72,
+      "url": "outdoor-c1156",
+      "childCategories": [
+        {
+          "id": 1160,
+          "name": "თერმოსები ",
+          "orderNo": 4,
+          "url": "outdoor-termosebi-c1160",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1158,
+          "name": "ელექტროსადგურები",
+          "orderNo": 2,
+          "url": "outdoor-eleqtrosadgurebi-c1158",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1162,
+          "name": "მანძილმზომი",
+          "orderNo": 6,
+          "url": "outdoor-mandzilmzomi-c1162",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1157,
+          "name": "ექშენ კამერები",
+          "orderNo": 1,
+          "url": "outdoor-eqshen-kamerebi-c1157",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1159,
+          "name": "გარე დამტენები",
+          "orderNo": 3,
+          "url": "outdoor-gare-damtenebi-c1159",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1161,
+          "name": "ფანარი",
+          "orderNo": 5,
+          "url": "outdoor-fanari-c1161",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1163,
+          "name": "წყლის ტუმბო",
+          "orderNo": 7,
+          "url": "outdoor-tsylis-tumbo-c1163",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 927,
+      "name": "Nintendo",
+      "orderNo": 11,
+      "url": "nintendo-c927",
+      "childCategories": [
+        {
+          "id": 679,
+          "name": "Nintendo",
+          "orderNo": 1,
+          "url": "nintendo-nintendo-c679",
+          "googleCategoryId": null
+        },
+        {
+          "id": 678,
+          "name": "Nintendo-ს კონტროლერები",
+          "orderNo": 4,
+          "url": "nintendo-nintendo-s-kontrolerebi-c678",
+          "googleCategoryId": null
+        },
+        {
+          "id": 843,
+          "name": "Nintendo-ს აქსესუარები",
+          "orderNo": 2,
+          "url": "nintendo-nintendo-s-aqsesuarebi-c843",
+          "googleCategoryId": null
+        },
+        {
+          "id": 844,
+          "name": "Nintendo-ს თამაშები",
+          "orderNo": 3,
+          "url": "nintendo-nintendo-s-tamashebi-c844",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 900,
+      "name": "პროცესორები",
+      "orderNo": 27,
+      "url": "procesorebi-c900",
+      "childCategories": [
+        {
+          "id": 714,
+          "name": "Apple chip",
+          "orderNo": 1,
+          "url": "procesorebi-apple-chip-c714",
+          "googleCategoryId": null
+        },
+        {
+          "id": 715,
+          "name": "Intel Core",
+          "orderNo": 3,
+          "url": "procesorebi-intel-core-c715",
+          "googleCategoryId": null
+        },
+        {
+          "id": 716,
+          "name": "AMD Ryzen",
+          "orderNo": 2,
+          "url": "procesorebi-amd-ryzen-c716",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1164,
+      "name": "სმარტ გადაადგილება",
+      "orderNo": 73,
+      "url": "smart-gadaadgileba-c1164",
+      "childCategories": [
+        {
+          "id": 1166,
+          "name": "სკუტერის აქსესუარები ",
+          "orderNo": 2,
+          "url": "smart-gadaadgileba-skuteris-aqsesuarebi-c1166",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1165,
+          "name": "სკუტერები",
+          "orderNo": 1,
+          "url": "smart-gadaadgileba-skuterebi-c1165",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1167,
+          "name": "ელექტრო ველოსიპედები",
+          "orderNo": 3,
+          "url": "smart-gadaadgileba-eleqtro-velosipedebi-c1167",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1168,
+          "name": "ჩაფხუტები",
+          "orderNo": 4,
+          "url": "smart-gadaadgileba-chafkhutebi-c1168",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 462,
+      "name": "ტელესკოპი და ოპტიკა",
+      "orderNo": 19,
+      "url": "teleskopi-da-optika-c462",
+      "childCategories": [
+        {
+          "id": 596,
+          "name": "ენდოსკოპი",
+          "orderNo": 1,
+          "url": "teleskopi-da-optika-endoskopi-c596",
+          "googleCategoryId": null
+        },
+        {
+          "id": 597,
+          "name": "მონოკლი",
+          "orderNo": 2,
+          "url": "teleskopi-da-optika-monokli-c597",
+          "googleCategoryId": null
+        },
+        {
+          "id": 782,
+          "name": "მიკროსკოპი",
+          "orderNo": 3,
+          "url": "teleskopi-da-optika-mikroskopi-c782",
+          "googleCategoryId": null
+        },
+        {
+          "id": 850,
+          "name": "ბინოკლი",
+          "orderNo": 4,
+          "url": "teleskopi-da-optika-binokli-c850",
+          "googleCategoryId": null
+        },
+        {
+          "id": 973,
+          "name": "აქსესუარები ოპტიკისთვის",
+          "orderNo": 5,
+          "url": "teleskopi-da-optika-aqsesuarebi-optikistvis-c973",
+          "googleCategoryId": null
+        },
+        {
+          "id": 974,
+          "name": "ტელესკოპი",
+          "orderNo": 6,
+          "url": "teleskopi-da-optika-teleskopi-c974",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 600,
+      "name": "სათვალე და აქსესუარები",
+      "orderNo": 57,
+      "url": "satvale-da-aqsesuarebi-c600",
+      "childCategories": [
+        {
+          "id": 1127,
+          "name": "სათვალე და აქსესუარები",
+          "orderNo": 1,
+          "url": "satvale-da-aqsesuarebi-satvale-da-aqsesuarebi-c1127",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 478,
+      "name": "მზის პანელები",
+      "orderNo": 59,
+      "url": "mzis-panelebi-c478",
+      "childCategories": [
+        {
+          "id": 1130,
+          "name": "მზის პანელები",
+          "orderNo": 1,
+          "url": "mzis-panelebi-mzis-panelebi-c1130",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 474,
+      "name": "ჭკვიანი სახლი",
+      "orderNo": 60,
+      "url": "chkviani-sakhli-c474",
+      "childCategories": [
+        {
+          "id": 1131,
+          "name": "ჭკვიანი სახლი",
+          "orderNo": 1,
+          "url": "chkviani-sakhli-chkviani-sakhli-c1131",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 582,
+      "name": "აკვარიუმები",
+      "orderNo": 61,
+      "url": "akvariumebi-c582",
+      "childCategories": [
+        {
+          "id": 1132,
+          "name": "აკვარიუმები ",
+          "orderNo": 1,
+          "url": "akvariumebi-akvariumebi-c1132",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 470,
+      "name": "ელექტრონული გასაღებები",
+      "orderNo": 63,
+      "url": "eleqtronuli-gasaghebebi-c470",
+      "childCategories": [
+        {
+          "id": 1134,
+          "name": "ელექტრონული გასაღებები",
+          "orderNo": 1,
+          "url": "eleqtronuli-gasaghebebi-eleqtronuli-gasaghebebi-c1134",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 479,
+      "name": "ჭკვიანი სენსორები",
+      "orderNo": 64,
+      "url": "chkviani-sensorebi-c479",
+      "childCategories": [
+        {
+          "id": 1135,
+          "name": "ჭკვიანი სენსორები",
+          "orderNo": 1,
+          "url": "chkviani-sensorebi-chkviani-sensorebi-c1135",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1136,
+      "name": "ჭკვიანი ქოლგა",
+      "orderNo": 65,
+      "url": "chkviani-qolga-c1136",
+      "childCategories": [
+        {
+          "id": 1137,
+          "name": "ჭკვიანი ქოლგა",
+          "orderNo": 1,
+          "url": "chkviani-qolga-chkviani-qolga-c1137",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 961,
+      "name": "მეტალოდეტექტორი",
+      "orderNo": 66,
+      "url": "metalodeteqtori-c961",
+      "childCategories": [
+        {
+          "id": 1138,
+          "name": "მეტალოდეტექტორი ",
+          "orderNo": 1,
+          "url": "metalodeteqtori-metalodeteqtori-c1138",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1169,
+      "name": "სპორტი",
+      "orderNo": 74,
+      "url": "sporti-c1169",
+      "childCategories": [
+        {
+          "id": 1170,
+          "name": "სარბენი ბილიკები",
+          "orderNo": 1,
+          "url": "sporti-sarbeni-bilikebi-c1170",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1174,
+          "name": "სმარტ საათები",
+          "orderNo": 5,
+          "url": "sporti-smart-saatebi-c1174",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1171,
+          "name": "მასაჟორები",
+          "orderNo": 2,
+          "url": "sporti-masazhorebi-c1171",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1175,
+          "name": "სპორტული ყურსასმენები",
+          "orderNo": 6,
+          "url": "sporti-sportuli-yursasmenebi-c1175",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1172,
+          "name": "სასწორი",
+          "orderNo": 3,
+          "url": "sporti-sastsori-c1172",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1173,
+          "name": "ფიტნეს ტრეკერები",
+          "orderNo": 4,
+          "url": "sporti-fitnes-trekerebi-c1173",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1178,
+      "name": "სმარტ განათება",
+      "orderNo": 76,
+      "url": "smart-ganateba-c1178",
+      "childCategories": [
+        {
+          "id": 1181,
+          "name": "განათების სენსორები ",
+          "orderNo": 3,
+          "url": "smart-ganateba-ganatebis-sensorebi-c1181",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1182,
+          "name": "RGB განათება ",
+          "orderNo": 4,
+          "url": "smart-ganateba-rgb-ganateba-c1182",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1180,
+          "name": "მაგიდის სანათი",
+          "orderNo": 2,
+          "url": "smart-ganateba-magidis-sanati-c1180",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1179,
+          "name": "სმარტ ნათურები ",
+          "orderNo": 1,
+          "url": "smart-ganateba-smart-naturebi-c1179",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 509,
+      "name": "Skin-X",
+      "orderNo": 20,
+      "url": "skin-x-c509",
+      "childCategories": [
+        {
+          "id": 755,
+          "name": "Skin-X-Leather",
+          "orderNo": 5,
+          "url": "skin-x-skin-x-leather-c755",
+          "googleCategoryId": null
+        },
+        {
+          "id": 756,
+          "name": "Skin-X-Satin",
+          "orderNo": 6,
+          "url": "skin-x-skin-x-satin-c756",
+          "googleCategoryId": null
+        },
+        {
+          "id": 757,
+          "name": "Skin-X-Brushed",
+          "orderNo": 7,
+          "url": "skin-x-skin-x-brushed-c757",
+          "googleCategoryId": null
+        },
+        {
+          "id": 758,
+          "name": "Skin-X-Gloss",
+          "orderNo": 8,
+          "url": "skin-x-skin-x-gloss-c758",
+          "googleCategoryId": null
+        },
+        {
+          "id": 759,
+          "name": "Skin-X-Matte",
+          "orderNo": 9,
+          "url": "skin-x-skin-x-matte-c759",
+          "googleCategoryId": null
+        },
+        {
+          "id": 760,
+          "name": "Skin-X-Textures",
+          "orderNo": 10,
+          "url": "skin-x-skin-x-textures-c760",
+          "googleCategoryId": null
+        },
+        {
+          "id": 754,
+          "name": "Skin-X-360°",
+          "orderNo": 4,
+          "url": "skin-x-skin-x-360-c754",
+          "googleCategoryId": null
+        },
+        {
+          "id": 753,
+          "name": "Skin-X-Back Cover",
+          "orderNo": 3,
+          "url": "skin-x-skin-x-back-cover-c753",
+          "googleCategoryId": null
+        },
+        {
+          "id": 751,
+          "name": "Skin-X-Other Devices",
+          "orderNo": 1,
+          "url": "skin-x-skin-x-other-devices-c751",
+          "googleCategoryId": null
+        },
+        {
+          "id": 752,
+          "name": "Skin-X-Film",
+          "orderNo": 2,
+          "url": "skin-x-skin-x-film-c752",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 1032,
+      "name": "ფლეშ მეხსიერებები",
+      "orderNo": 15,
+      "url": "flesh-mekhsierebebi-c1032",
+      "childCategories": [
+        {
+          "id": 985,
+          "name": "USB ფლეშ მეხსიერებები",
+          "orderNo": 2,
+          "url": "flesh-mekhsierebebi-usb-flesh-mekhsierebebi-c985",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1033,
+          "name": "OTG ფლეშ მეხსიერება",
+          "orderNo": 1,
+          "url": "flesh-mekhsierebebi-otg-flesh-mekhsiereba-c1033",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    },
+    {
+      "id": 978,
+      "name": "მეხსიერების ბარათები",
+      "orderNo": 14,
+      "url": "mekhsierebis-baratebi-c978",
+      "childCategories": [
+        {
+          "id": 1030,
+          "name": "Micro SD მეხსიერების ბარათები",
+          "orderNo": 1,
+          "url": "mekhsierebis-baratebi-micro-sd-mekhsierebis-baratebi-c1030",
+          "googleCategoryId": null
+        },
+        {
+          "id": 1031,
+          "name": "SD მეხსიერების ბარათები",
+          "orderNo": 2,
+          "url": "mekhsierebis-baratebi-sd-mekhsierebis-baratebi-c1031",
+          "googleCategoryId": null
+        }
+      ],
+      "googleCategoryId": null
+    }
+  ]

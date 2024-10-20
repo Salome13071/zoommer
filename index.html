@@ -3,327 +3,266 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/reset.css" />
-    <link rel="stylesheet" href="./css/shared.css" />
-    <link rel="stylesheet" href="./css/style.css" />
-    <link rel="stylesheet" href="./css/header.css" />
-    <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="/css/reset.css" />
+    <link rel="stylesheet" href="/css/shared.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link rel="stylesheet" href="/css/all-category.css" />
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
     <title>mist-zoommer</title>
   </head>
   <body>
 
-  <header>
-    <!-- ზუმერის მთლიანი გვერდის სტრუქტურა -->
+<header></header>
 
-    <!-- მთლიან ნავიგაციას დავარქვი"nav__container"
-  და  გავყავი 2 ნაწილად top და bottom ნაწილებად -->
-    <nav class="nav__container">
-      <!-- ნავიგაციის ზედა ანუ top ნაწილი -->
-      <div class="nav__container-top">
-        <div class="nav__top-contact">
-                  <!-- საკონტაქტო ნომერი -->
-          <span class="nav__top-phone"></span>
-        </div>
-        <!-- ტოპიქები რაც არის პოლიტიკა განვადება და ა.შ. მაგათი ლინკები -->
-        <div class="nav__top-links">
-            <a href="#" class="nav__top-link"></a>  <!-- ასე რომ გავწეროთ -->
-        </div>
+
+<div class="scroll-bar"></div>
+
+
+  <div class="log-in__pop-up-container" id="log-in__pop-up-container">
+    <div class="log-in__pop-up-mini-container">
+      <div class="log-in__pop-up-main-part flex-column" id="log-in__pop-up-main-part">
+        <img src="./assets/mobile-modal-close.svg" alt="close button" class="log-in-popup-close">
+<div class="pop-up-main-part__top-section flex">
+  <div class="pop-up-main-part__top-section-title">
+    <h4>ავტორიზაცია</h4>
+    </div>
+    <div class="underline underline-style flex"></div>
+  <div class="pop-up-main-part__top-section-title">
+    <h4>რეგისტრაცია</h4>
+  </div>
+</div>
+<div class="pop-up-main-part-bottom-section">
+
+  <div class="pop-up-main-part-bottom-container">
+
+    <div class="pop-up-main-part-choose flex">
+      <div class="choose__phone">
+        <h4>ნომრით ავტორიზაცია</h4>
       </div>
-
-      <!-- ნავიგაციის ქვედა ანუ bottom ნაწილი -->
-      <div class="nav__container-bottom">
-        <!-- ზუმერის ლოგო -->
-        <div class="nav__bottom-logo">
-          <img src="" alt="" />
-        </div>
-        <!-- ზუმერის ლოგოდან 100პხ დაშორებით დანარჩენი ინფოს კონტეინერი -->
-        <div class="nav__bottom-mainPart">
-
-        <div class="bottom__mainPart-left">
-        <!-- ნარინჯისფერი ღილაკი რომ არის კატეგორიის ნავიგაცია რომ ქვია -->
-        <button class="nav__bottom-categoryButton"></button>
-        <!-- სერჩი-->
-        <div class="nav__search">
-          <input type="text" class="nav__search-input" placeholder="" />
-          <button class="nav__search-button">
-            <img src="" alt="" />
-          </button>
-        </div>
+      <div class="choose__mail">
+        <h4>მეილით ავტორიზაცია</h4>
+      </div>
     </div>
 
 
-        <!-- კალათის, შესვლის და ენის ღილაკები -->
-        <div class="bottom__mainPart-right">
-          <a href="#" class="nav__icon-cart"></a>
-          <a href="#" class="nav__icon-user"></a>
-          <a href="#" class="nav__icon-language"></a>
-        </div>
+<div class="form-fields flex-column">
+<form class="form flex">
+
+  <div class="choose__country-code flex">
+    <img src="./assets/flag-geo.png" alt="Georgia flag img">
+    <span>+995</span>
+  </div>
+
+<input type="number" placeholder="ტელეფონის ნომერი" class="input__mob-num">
+</form>
+
+<button class="pop_up__login-btn flex"><h4 class="send-button">კოდის გამოგზავნა</h4></button>
+</div>
+
+
+
+<div class="pop-up__login-last-part flex-column">
+  <h4>ან გაიარე ავტორიზაცია სხვა მეთოდით</h4>
+  <div class="google__acount">
+    <a href="https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?client_id=744926430675-mq9cl9t8mcgdsmi1h8vsl9755h73tds5.apps.googleusercontent.com&scope=openid%20email%20profile&response_type=id_token&gsiwebsdk=gis_attributes&redirect_uri=https%3A%2F%2Fzoommer.ge&response_mode=form_post&origin=https%3A%2F%2Fzoommer.ge&display=popup&prompt=select_account&gis_params=ChJodHRwczovL3pvb21tZXIuZ2USEmh0dHBzOi8vem9vbW1lci5nZRgHKhZyS3k0eGRqaWtUa09jRVkzQml4Z2h3Mkg3NDQ5MjY0MzA2NzUtbXE5Y2w5dDhtY2dkc21pMWg4dnNsOTc1NWg3M3RkczUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb204AUJANzM4NWM4MmQ0YzVkOTI1ZmNiNTJlMDI4YTg5NmM1ZjM3NTU4NDVjZGFjODQ2NmQ5Y2E1NDE1YmEzYzVmOGNmMg&service=lso&o2v=1&ddm=0&flowName=GeneralOAuthFlow" rel="noopener" >
+     <div class="svg-div"><svg class="google-acount-svg" xmlns="https://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 40 48" aria-hidden="true" jsname="jjf7Ff"><path fill="#4285F4" d="M39.2 24.45c0-1.55-.16-3.04-.43-4.45H20v8h10.73c-.45 2.53-1.86 4.68-4 6.11v5.05h6.5c3.78-3.48 5.97-8.62 5.97-14.71z"></path><path fill="#34A853" d="M20 44c5.4 0 9.92-1.79 13.24-4.84l-6.5-5.05C24.95 35.3 22.67 36 20 36c-5.19 0-9.59-3.51-11.15-8.23h-6.7v5.2C5.43 39.51 12.18 44 20 44z"></path><path fill="#FABB05" d="M8.85 27.77c-.4-1.19-.62-2.46-.62-3.77s.22-2.58.62-3.77v-5.2h-6.7C.78 17.73 0 20.77 0 24s.78 6.27 2.14 8.97l6.71-5.2z"></path><path fill="#E94235" d="M20 12c2.93 0 5.55 1.01 7.62 2.98l5.76-5.76C29.92 5.98 25.39 4 20 4 12.18 4 5.43 8.49 2.14 15.03l6.7 5.2C10.41 15.51 14.81 12 20 12z"></path></svg></div> 
+    </a>
+  </div>
+
+</div>
+  </div>
+</div>
       </div>
-    </nav>
-</header>
-<main>
-    <!-- პირველი სექცია -->
-    <section class="first__section">
+    </div>
+  </div>
+
+
+
+    <main>
+      <!-- პირველი სექცია -->
+      <section class="first__section">
         <!-- პირველი სექციის მარცხენა ნაწილი.. aside-ს რომ გავს.. კატეგორიების ბლოკი -->
         <div class="first__section-categories">
-            <!-- და აქ გვექნება 8 კატეგორია.. თითოეული ჩავსვათ დივში და თითოეული დივში 
+          <!-- და აქ გვექნება 8 კატეგორია.. თითოეული ჩავსვათ დივში და თითოეული დივში 
             უნდა გვქონდეს აიქონი და და კატეგორიის სახელი.. ზუმერის გვერდზე h4ით არის ეს ნაწილი გაკეთებული -->
         </div>
         <!-- პირველი სექციის მარჯვენა ნაწილი.. მთავარი სლაიდერის კონტეინერი -->
-        <div class="first__section-swiper">
+        <div class="first__section-swiper"></div>
+      </section>
 
+      <!-- საერთო კონტეინერი ყველა სლაიდერის კონტეინერებისათვის და ბოლოს ნანახი კონტეინერისათვის -->
+      <section class="slidersMainBox">
+        <div class="swiper mySwiper1">
+          <h1 class="mySwiper_header">სულსწრაფი შეთავაზებები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
         </div>
-    </section>
+        <div class="swiper mySwiper2">
+          <h1 class="mySwiper_header">აღმოაჩინე რა საჩუქარი გელოდება</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper3">
+          <h1 class="mySwiper_header">ახალი მოდელები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper4">
+          <h1 class="mySwiper_header">ტელევიზორები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper5">
+          <h1 class="mySwiper_header">ბრენდები</h1>
+          <div class="swiper-wrapper swiper5Boxes"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper6">
+          <h1 class="mySwiper_header">თავის მოვლა</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper7">
+          <h1 class="mySwiper_header">ყურსასმენები Buds</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper8">
+          <h1 class="mySwiper_header">ყურსასმენები Headphones</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper9">
+          <h1 class="mySwiper_header">ლეპტოპები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper10">
+          <h1 class="mySwiper_header">კონსოლები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper11">
+          <h1 class="mySwiper_header">მანქანის აქსესუარები</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper12">
+          <h1 class="mySwiper_header">ჭკვიანი სახლი</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper13">
+          <h1 class="mySwiper_header">TOP პროდუქტი</h1>
+          <div class="swiper-wrapper"></div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+        <div class="swiper mySwiper14">
+          <h1 class="mySwiper_header">ბოლოს ნანახი</h1>
+          <div class="swiper-wrapper"></div>
+        </div>
+      </section>
+    </main>
 
 
 
+    <footer class="footer">
+      <div class="footer-row">
+        <div class="conteiner">
+          <h4>ნავიგაცია</h4>
+          <a href="#">პერსონალურ მონაცემთა დაცვის პოლიტიკა</a>
+          <a href="#">ჩვენ შესახებ</a>
+          <a href="#">წესები და პირობები</a>
+          <a href="#">მიწოდების სერვისი</a>
+          <a href="#">კარიერა</a>
+        </div>
+        <div class="conteiner">
+          <h4>გადახდები</h4>
+          <a href="#">გადახდის მეთოდები</a>
+          <a href="#">გარანტია</a>
+          <a href="#">განვადება</a>
+          <a href="#">ნივთის დაბრუნება</a>
+          <a href="#">ნივთის ონლაინ ყიდვის ინსტრუქცია</a>
+        </div>
+        <div class="social">
+          <h4>გამოგვყევი</h4>
+          <a href="#">
+              <img src="./assets/fb.svg" alt="soc-icons">
+              <p>Facebook</p>
+          </a>
+          <a href="#">
+              <img src="./assets/youtube.svg" alt="soc-icons">
+              <p>Youtube</p>
+          </a>
+          <a href="#">
+              <img src="./assets/instagram.svg" alt="soc-icons">
+              <p>Instagram</p>
+          </a>
+          <a href="#">
+              <img src="./assets/tiktok.svg" alt="soc-icons">
+              <p>Tik Tok</p>
+        </div>
+        <div class="contacts">
+          <h4>კონტაქტი</h4>
+          <a href="mailto:info@zoommer.ge">
+              <img src="./assets/gmail.svg" alt="contac-icon">
+              <p>Info@zoommer.ge</p>
+          </a>
+          <a href="tel:+995 32 2 60 30 60">
+              <img src="./assets/phone.svg" alt="contac-icon">
+              <p>+995 (32) 2 60 30 60 / *7007</p>
+          </a>
+          <a href="#">
+              <img src="./assets/locations.svg" alt="contac-icon">
+              <p>ფილიალები</p>
+          </a>
+          <a href="#">
+              <img src="./assets/locations.svg" alt="contac-icon">
+              <p>კორპორატიული გაყიდვები</p>
+          </a>
+          <a href="#">
+              <p>Zoommer App</p>
+              <img src="./assets/e-360.svg" alt="icon">
+          </a>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <p>Copyright © 2023 Zoommer.ge. All rights reserved.</p>
+      </div>
+    </footer>
 
-    <!-- საერთო კონტეინერი ყველა სლაიდერის კონტეინერებისათვის და ბოლოს ნანახი კონტეინერისათვის -->
-<section class="main-section">
-<!-- საერთო კონტეინერი ყველა სლაიდერ კონტეინერისათვის -->
-<div class="main-section____slaiders-containers">
-
- <!--კონტეინერი სულსწრაფობას მოუხმე -->
-<div class="breathless__container">
-    <a class="breathless__container-header" href="#"><h2 class=""></h2></a>
-    <!-- სლაიდერის კონტეინერი -->
-    <div class="breathless__swiper-wrapper">
-      
+    <!--მარჯვენა ქვედა კუთხეში გაფიქსული 3 აიქონის კონტეინერი-->
+    <div class="fixed__icons-container">
+      <!--ზემოთ ასქროლვა-->
+      <div class="fixed__icon-up">
+        <img src="" alt="" />
+      </div>
+      <!--პროდუქციის შედარება-->
+      <div class="fixed__icon-compare">
+        <img src="" alt="" />
+      </div>
+      <!--ჩატი-->
+      <div class="fixed__icon-chat">
+        <img src="" alt="" />
+      </div>
     </div>
-    <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-    <img src="" alt="" class="breathless__swiper-leftBtn">
-    <img src="" alt="" class="breathless__swiper-rightBtn">
-  </div>
-
-
-
-
- <!--კონტეინერი აღმოაჩინე რა საჩუქარი გელოდება -->
- <div class="discover__container">
-  <a class="discover__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="discover__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="discover__swiper-leftBtn">
-  <img src="" alt="" class="discover__swiper-rightBtn">
-</div>
-
-
-
- 
-<!--კონტეინერი ახალი მოდელები -->
-<div class="new-models__container">
- <a class="new-models__container-header" href="#"><h2 class=""></h2></a>
- <!-- სლაიდერის კონტეინერი -->
- <div class="new-models__swiper-wrapper">
-   
- </div>
- <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
- <img src="" alt="" class="new-models__swiper-leftBtn">
- <img src="" alt="" class="new-models__swiper-rightBtn">
-</div>        
-        
-
-
- <!--კონტეინერი ტელევიზორები -->
- <div class="tvs__container">
-  <a class="tvs__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="tvs__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="tvs__swiper-leftBtn">
-  <img src="" alt="" class="tvs__swiper-rightBtn">
-</div>           
-
-
-
- <!--კონტეინერი ბრენდები -->
- <div class="brands__container">
-  <a class="brands__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="brands__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="brands__swiper-leftBtn">
-  <img src="" alt="" class="brands__swiper-rightBtn">
-</div>           
-
-
-
-
- <!--კონტეინერი თავის მოვლა -->
- <div class="self-care__container">
-  <a class="self-care__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="self-care__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="self-care__swiper-leftBtn">
-  <img src="" alt="" class="self-care__swiper-rightBtn">
-</div>           
-
-
-
-
-<!--კონტეინერი ყურსასმენები buds -->
-<div class="earphone-buds__container">
-  <a class="earphone-buds__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="earphone-buds__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="earphone-buds__swiper-leftBtn">
-  <img src="" alt="" class="earphone-buds__swiper-rightBtn">
-</div>     
-          
-
-
-
-
- <!--კონტეინერი ყურსასმენები headphones -->
- <div class="headphones__container">
-  <a class="headphones__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="headphones__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="headphones__swiper-leftBtn">
-  <img src="" alt="" class="headphones__swiper-rightBtn">
-</div>        
-
-
-
-
-<!--კონტეინერი ლეპტოპები -->
-<div class="laptops__container">
- <a class="laptops__container-header" href="#"><h2 class=""></h2></a>
- <!-- სლაიდერის კონტეინერი -->
- <div class="laptops__swiper-wrapper">
-   
- </div>
- <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
- <img src="" alt="" class="laptops__swiper-leftBtn">
- <img src="" alt="" class="laptops__swiper-rightBtn">
-</div>    
-
-
-
- <!--კონტეინერი კონსოლები -->
- <div class="consoles__container">
-  <a class="consoles__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="consoles__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="consoles__swiper-leftBtn">
-  <img src="" alt="" class="consoles__swiper-rightBtn">
-</div>    
-
-
-
-
- <!--კონტეინერი მანქანის აქსესუარები -->
- <div class="car-accessories__container">
-  <a class="car-accessories__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="car-accessories__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="car-accessories__swiper-leftBtn">
-  <img src="" alt="" class="car-accessories__swiper-rightBtn">
-</div>  
-
-
-
- <!--კონტეინერი ჭკვიანი სახლი-->
- <div class="smart-home__container">
-  <a class="smart-home__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="smart-home__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="smart-home__swiper-leftBtn">
-  <img src="" alt="" class="smart-home__swiper-rightBtn">
-</div>  
-
-
-
- <!--კონტეინერი ტოპ პროდუქტი-->
- <div class="top-products__container">
-  <a class="top-products__container-header" href="#"><h2 class=""></h2></a>
-  <!-- სლაიდერის კონტეინერი -->
-  <div class="top-products__swiper-wrapper">
-    
-  </div>
-  <!-- სლაიდერის მარცხენა და მარჯვენა ღილაკები -->
-  <img src="" alt="" class="top-products__swiper-leftBtn">
-  <img src="" alt="" class="top-products__swiper-rightBtn">
-</div>  
-
-</div>
-
-  <!-- ამ კონტეინერში უნდა ჩაიყაროს ბოლოს ნანახი პროდუქტები -->
-<div class="main-section____last-seen-container">
-
-
-</div>
-
-  </section>
-  
-</main>
-
-<footer>
-  <!--ფუტერის სექცია / ფუტერის მთავარი კონტეინერი-->
-    <section class="footer__section-container">
-      <!--ნავიგაციის კონტეინერის სვეტი -->
-         <div class="footer__Section-column1">
-
-         </div> 
-         <!--გადახდების კონტეინერის სვეტი -->
-        <div class="footer__Section-column2">
-
-        </div> 
-        <!--გამოგვყევი კონტეინერის სვეტი -->
-        <div class="footer__Section-column3">
-
-        </div>
-        <!--კონტაქტის კონტეინერის სვეტი --> 
-        <div class="footer__Section-column4">
-
-        </div>
-    </section>
-</footer>
-
-
-
-<!--მარჯვენა ქვედა კუთხეში გაფიქსული 3 აიქონის კონტეინერი-->
-<div class="fixed__icons-container">
-  <!--ზემოთ ასქროლვა-->
-  <div class="fixed__icon-up">
-    <img src="" alt="" />
-  </div>
-  <!--პროდუქციის შედარება-->
-  <div class="fixed__icon-compare">
-    <img src="" alt="" />
-  </div>
-  <!--ჩატი-->
-  <div class="fixed__icon-chat">
-    <img src="" alt="" />
-  </div>
-</div>
-
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>

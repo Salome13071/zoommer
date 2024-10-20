@@ -1,0 +1,22 @@
+.cart__section {
+  flex-grow: 1;
+  margin: 30px 0px 60px;
+}
+
+.cart__section-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 0px 15px;
+}
+
+.cart__section-container-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(-140px + 100vh);
+}
+
+.cart__section-container-div img {
+  width: 300px;
+}
